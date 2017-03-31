@@ -1,0 +1,94 @@
+This is BibTeX, Version 0.99d (TeX Live 2016)
+Capacity: max_strings=35307, hash_size=35307, hash_prime=30011
+The top-level auxiliary file: thesis.aux
+A level-1 auxiliary file: contents/Cabstract.aux
+A level-1 auxiliary file: contents/Eabstract.aux
+A level-1 auxiliary file: chapters/ChapterA.aux
+A level-1 auxiliary file: chapters/ChapterB.aux
+A level-1 auxiliary file: chapters/ChapterC.aux
+A level-1 auxiliary file: chapters/ChapterD.aux
+The style file: uestcthesis.bst
+A level-1 auxiliary file: contents/original.aux
+A level-1 auxiliary file: contents/translation.aux
+new.block is an unknown function---line 83 of file uestcthesis.bst
+remove.dots is an unknown function---line 455 of file uestcthesis.bst
+remove.dots is an unknown function---line 503 of file uestcthesis.bst
+remove.dots is an unknown function---line 555 of file uestcthesis.bst
+remove.dots is an unknown function---line 599 of file uestcthesis.bst
+format.pages is an unknown function---line 1139 of file uestcthesis.bst
+format.pages is an unknown function---line 1170 of file uestcthesis.bst
+format.pages is an unknown function---line 1179 of file uestcthesis.bst
+format.pages is an unknown function---line 1209 of file uestcthesis.bst
+format.pages is an unknown function---line 1218 of file uestcthesis.bst
+Reallocated wiz_functions (elt_size=4) to 6000 items from 3000.
+*publisher is an unknown function---line 1882 of file uestcthesis.bst
+*　* is an unknown function---line 1891 of file uestcthesis.bst
+Database file #1: contents/reference.bib
+You can't pop an empty literal stack for entry wang1999sanwei
+while executing---line 2628 of file uestcthesis.bst
+You can't pop an empty literal stack for entry liuxf2006
+while executing---line 2628 of file uestcthesis.bst
+You can't pop an empty literal stack for entry liuxf2006
+while executing---line 2628 of file uestcthesis.bst
+You can't pop an empty literal stack for entry zhu1973wulixue
+while executing---line 2628 of file uestcthesis.bst
+You can't pop an empty literal stack for entry chen2001hao
+while executing---line 2628 of file uestcthesis.bst
+You can't pop an empty literal stack for entry chen2001hao
+while executing---line 2628 of file uestcthesis.bst
+You can't pop an empty literal stack for entry gu2012lao
+while executing---line 2628 of file uestcthesis.bst
+You can't pop an empty literal stack for entry feng997he
+while executing---line 2628 of file uestcthesis.bst
+You can't pop an empty literal stack for entry xiao2012yi
+while executing---line 2628 of file uestcthesis.bst
+You can't pop an empty literal stack for entry zhong1994zhong
+while executing---line 2628 of file uestcthesis.bst
+You can't pop an empty literal stack for entry clerc2010discrete
+while executing---line 2628 of file uestcthesis.bst
+"\" can't start a style-file command---line 2637 of file uestcthesis.bst
+ : 
+ : \endinput
+(Error may have been on previous line)
+You've used 9 entries,
+            5798 wiz_defined-function locations,
+            1182 strings with 9677 characters,
+and the built_in function-call counts, 2332 in all, are:
+= -- 245
+> -- 50
+< -- 11
++ -- 33
+- -- 12
+* -- 159
+:= -- 378
+add.period$ -- 19
+call.type$ -- 9
+change.case$ -- 9
+chr.to.int$ -- 9
+cite$ -- 9
+duplicate$ -- 107
+empty$ -- 194
+format.name$ -- 25
+if$ -- 509
+int.to.chr$ -- 1
+int.to.str$ -- 10
+missing$ -- 0
+newline$ -- 54
+num.names$ -- 18
+pop$ -- 23
+preamble$ -- 1
+purify$ -- 9
+quote$ -- 0
+skip$ -- 89
+stack$ -- 0
+substring$ -- 105
+swap$ -- 32
+text.length$ -- 3
+text.prefix$ -- 0
+top$ -- 0
+type$ -- 34
+warning$ -- 0
+while$ -- 17
+width$ -- 0
+write$ -- 158
+(There were 24 error messages)

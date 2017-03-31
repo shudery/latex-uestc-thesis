@@ -1,0 +1,62 @@
+% !Mode:: "TeX:UTF-8"
+
+\begin{Eabstract}{stereo vision}{camera  calibration}{local  matching}{seeds  propagation}{
+planar constraint}
+
+Binocular stereovision is an important research branch of computer vision, which 
+can  restore  the  three-dimensional  depth  information  of  the  scene  by  computing  the 
+disparity  of  space  points  in  two  images  of  the  same  scene.  Compared  with  the 
+traditional  depth  measurement,  it  has  two  outstanding  advantages,  non-contact  and 
+passiveness and it has been widely used in industrial inspection, aerospace,  robotics 
+navigation, battlefield surveillance and other fields with these excellent features. 
+
+In recent years, binocular stereovision method has got greater progress. However, 
+there are still many problems to be solved, such  as camera  calibration accuracy  and 
+stereo  matching  accuracy  problems,  which  need  the  researchers  to  propose  new 
+solutions  continuously.  The  paper  carried  out  theory  and  technical  implementation 
+research  on  the  camera  calibration,  stereo  matching  method,  and  stereovision 
+measurement  error  and  accuracy  analysis  for  the  binocular  stereovision.  The  main 
+work and innovations are as follows: 
+
+1. In order to improve the accuracy of camera calibration,  the corner extraction 
+algorithm  based  on  linear  fitting  of  the  initial  corner’s  limited  neighborhood  is 
+proposed.  Harris  operator  is  employed  to  extract  the  checkerboard  corners 
+preliminarily, the extracted checkerboard edge is implemented the linear fitting within 
+the  certain  scope  of  the  initial  harris  corners  and  the  intersection  of  the  two  fitting 
+lines is the final corner. The extracted corners are used to calibrate the stereo vision 
+system  with  plane  calibration  method,  which  get  higher  calibration  accuracy,  the 
+corner extraction method is proved to be effective.  
+
+2.  In  order  to  get  a  better  balance  both  in  time  and  accuracy  of  local  stereo 
+matching  algorithm.  A  fast  stereo  matching  algorithm  based  on  seeds  point 
+propagation  is  presented.  The  joint  matching  cost  is  employed  to  measure  the 
+difference  between  left  and  right  image  in  the  algorithm,  use  the  image  edge 
+information  to  help  build  the  dynamic  matching  window,  which  can  weaken  the 
+adverse  effects  of  the  fixed  window  and  obtain  high  quality  initial  disparity  map. 
+After  the  seeds  point  selection  through  the  left  and  right  consistency  check  and 
+regional characteristics, the seeds points are propagated with a variety of constraints. 
+At last, the disparity map is refined with the regional vote. The algorithm can  get  a 
+higher accuracy on most region of test images and has certain practical value.
+
+3.  The  semi-global  stereo  matching  algorithm  based  on  the  disparity  planar 
+constraints  is  put  forward  according  to  incomplete  of  the  optimal  path  in  the 
+semi-global  algorithm.  We  establish  sparse  correspondences  by  extracting  FAST 
+feature  points  and  ORB  descriptor  in  both  images.  The  sparse  disparity  points  are 
+clustered  with  the  image  segmentation  and  propagate  to  other  points  in  the  same 
+segmented  region.  The  reliable  disparity  points  of  the  segmented  region  are  carried 
+out  the  planar  fitting  and  the  difference  between  the  plane  fitting  disparity  and  the 
+initial disparity is added to the pixel matching cost as a constraint. Then, the optimal 
+solution to the energy equation is obtained with the semi-global method. Experiments 
+show  that  the  algorithm  can  work  well  in  the  region  with  textureless  and  repetitive 
+structure  and  it  can  also  get  stable  matching  results  in  the  occlusion  and  depth 
+discontinuity region while maintaining efficiency. 
+
+4.  Some  factors  affecting  the  measurement  accuracy  in  the  binocular 
+stereovision system are analyzed theoretically in detail. The theoretical derivation for 
+the  three  aspects  of  the  camera  pixel  quantization  error,  structural  parameters  error, 
+and  range  resolution  accuracy  are  launched  and  the  corresponding  conclusions  are 
+drawn.  The  two  algorithms  are  tested  in  different  scenes.  At  last,  some  referenced 
+suggestions for building the binocular stereovision ranging platforms are put forward 
+with  the  method  of  combining  theoretical  derivation  with  the  experimental  data 
+analysis. 
+\end{Eabstract}
