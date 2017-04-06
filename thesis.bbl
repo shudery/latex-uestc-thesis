@@ -1,28 +1,10 @@
-\begin{thebibliography}{9}\setlength{\baselineskip}{20bp plus 2bp minus
+\begin{thebibliography}{10}\setlength{\baselineskip}{20bp plus 2bp minus
   1bp}\setlength{\itemsep}{0bp}\setlength{\parskip}{0pt}
 \providecommand{\natexlab}[1]{#1}
 \providecommand{\url}[1]{\texttt{#1}}
 \expandafter\ifx\csname urlstyle\endcsname\relax
   \providecommand{\doi}[1]{doi: #1}\else
   \providecommand{\doi}{doi: \begingroup \urlstyle{rm}\Url}\fi
-
-\ifnum \value{NAT@ctr}=9 \addtolength{\labelwidth}{1em} \fi\ifnum
-  \value{NAT@ctr}=99 \addtolength{\labelwidth}{1em} \fi\ifnum
-  \value{NAT@ctr}=999 \addtolength{\labelwidth}{1em}
-  \fi\bibitem[王浩刚和聂在平(1999)]{wang1999sanwei}
-王浩刚, 聂在平.
-\newblock 三维矢量散射积分方程中奇异性分析[J].
-\newblock 电子学报, 1999, 27(12):68--71
-
-\ifnum \value{NAT@ctr}=9 \addtolength{\labelwidth}{1em} \fi\ifnum
-  \value{NAT@ctr}=99 \addtolength{\labelwidth}{1em} \fi\ifnum
-  \value{NAT@ctr}=999 \addtolength{\labelwidth}{1em} \fi\bibitem[Liu et
-  al.(2006)]{liuxf2006}
-X.~F. Liu, B.~Z. Wang, W.~Shao.
-\newblock A marching-on-in-order scheme for exact attenuation constant
-  extraction of lossy transmission lines[C].
-\newblock China-Japan Joint Microwave Conference Proceedings, Chengdu, 2006,
-  527--529
 
 \ifnum \value{NAT@ctr}=9 \addtolength{\labelwidth}{1em} \fi\ifnum
   \value{NAT@ctr}=99 \addtolength{\labelwidth}{1em} \fi\ifnum
@@ -83,5 +65,31 @@ M.~Clerc.
 \newblock
   \url{http://clere.maurice.free.fr/pso/Fuzzy_Discrere_PSO/Fuzzy_DPSO.htm},
   July 16, 2010
+
+\ifnum \value{NAT@ctr}=9 \addtolength{\labelwidth}{1em} \fi\ifnum
+  \value{NAT@ctr}=99 \addtolength{\labelwidth}{1em} \fi\ifnum
+  \value{NAT@ctr}=999 \addtolength{\labelwidth}{1em}
+  \fi\bibitem[Daguo(1999)]{A-1}
+Daguo.
+\newblock 202022三维矢量散射积分方程中奇异性分析[J].
+\newblock 电子学报, 1999, 27(12):68--71
+
+\ifnum \value{NAT@ctr}=9 \addtolength{\labelwidth}{1em} \fi\ifnum
+  \value{NAT@ctr}=99 \addtolength{\labelwidth}{1em} \fi\ifnum
+  \value{NAT@ctr}=999 \addtolength{\labelwidth}{1em}
+  \fi\bibitem[王浩刚和聂在平(1999)]{A-2}
+王浩刚, 聂在平.
+\newblock 三维矢量散射积分方程中奇异性分析[J].
+\newblock 电子学报, 1999, 27(12):68--71
+
+\ifnum \value{NAT@ctr}=9 \addtolength{\labelwidth}{1em} \fi\ifnum
+  \value{NAT@ctr}=99 \addtolength{\labelwidth}{1em} \fi\ifnum
+  \value{NAT@ctr}=999 \addtolength{\labelwidth}{1em} \fi\bibitem[Liu et
+  al.(2006)]{A-3}
+X.~F. Liu, B.~Z. Wang, W.~Shao.
+\newblock A marching-on-in-order scheme for exact attenuation constant
+  extraction of lossy transmission lines[C].
+\newblock China-Japan Joint Microwave Conference Proceedings, Chengdu, 2006,
+  527--529
 
 \end{thebibliography}

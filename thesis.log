@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.14159265-2.6-1.40.17 (TeX Live 2016) (preloaded format=pdflatex 2016.10.28)  1 APR 2017 14:57
+This is pdfTeX, Version 3.14159265-2.6-1.40.17 (TeX Live 2016) (preloaded format=pdflatex 2016.10.28)  6 APR 2017 13:03
 entering extended mode
  restricted \write18 enabled.
  %&-line parsing enabled.
@@ -2029,21 +2029,21 @@ LaTeX Font Info:    Font shape `OT1/ptm/bx/n' in size <8.91705> not available
 (Font)              Font shape `OT1/ptm/b/n' tried instead on input line 1.
 LaTeX Font Info:    Font shape `OT1/ptm/bx/n' in size <7.23007> not available
 (Font)              Font shape `OT1/ptm/b/n' tried instead on input line 1.
-)
-\tf@toc=\write8
-\openout8 = `thesis.toc'.
-
  [5
 
 
 
 
-] [6
+])
+\tf@toc=\write8
+\openout8 = `thesis.toc'.
 
-
-]
+ [6]
 No file thesis.acr.
-[7] [8
+[7
+
+
+] [8
 
 
 ]
@@ -2062,10 +2062,10 @@ No file thesis.gls.
 第1章
 LaTeX Font Info:    Font shape `OT1/ptm/bx/n' in size <14.05249> not available
 (Font)              Font shape `OT1/ptm/b/n' tried instead on input line 4.
-) [1
+[1
 
 
-] [2]
+] [2]) [3]
 \openout2 = `chapters/ChapterB.aux'.
 
  (./chapters/ChapterB.tex
@@ -2074,7 +2074,7 @@ LaTeX Font Info:    Font shape `OT1/ptm/bx/n' in size <14.05249> not available
 
 pdfTeX warning: pdflatex (file ./pics/pica.pdf): PDF inclusion: found PDF versi
 on <1.7>, but at most version <1.5> allowed
-<pics/pica.pdf, id=415, 156.36618pt x 113.00317pt>
+<pics/pica.pdf, id=423, 156.36618pt x 113.00317pt>
 File: pics/pica.pdf Graphic file (type pdf)
  <use pics/pica.pdf>
 Package pdftex.def Info: pics/pica.pdf used on input line 24.
@@ -2098,7 +2098,7 @@ LaTeX Warning: `h' float specifier changed to `ht'.
 
 LaTeX Font Info:    Font shape `OT1/ptm/bx/n' in size <12.045> not available
 (Font)              Font shape `OT1/ptm/b/n' tried instead on input line 30.
-[3
+[4
 
 
 
@@ -2106,7 +2106,7 @@ LaTeX Font Info:    Font shape `OT1/ptm/bx/n' in size <12.045> not available
 
 pdfTeX warning: pdflatex (file ./pics/picb.pdf): PDF inclusion: found PDF versi
 on <1.6>, but at most version <1.5> allowed
-<pics/picb.pdf, id=439, 395.4775pt x 324.21124pt>
+<pics/picb.pdf, id=447, 395.4775pt x 324.21124pt>
 File: pics/picb.pdf Graphic file (type pdf)
  <use pics/picb.pdf>
 Package pdftex.def Info: pics/picb.pdf used on input line 39.
@@ -2115,7 +2115,7 @@ Package pdftex.def Info: pics/picb.pdf used on input line 39.
 
 pdfTeX warning: pdflatex (file ./pics/picc.pdf): PDF inclusion: found PDF versi
 on <1.6>, but at most version <1.5> allowed
-<pics/picc.pdf, id=440, 377.41pt x 331.2375pt>
+<pics/picc.pdf, id=448, 377.41pt x 331.2375pt>
 File: pics/picc.pdf Graphic file (type pdf)
  <use pics/picc.pdf>
 Package pdftex.def Info: pics/picc.pdf used on input line 40.
@@ -2124,7 +2124,7 @@ Package pdftex.def Info: pics/picc.pdf used on input line 40.
 
 LaTeX Warning: `h' float specifier changed to `ht'.
 
-) [4 <./pics/pica.pdf>] [5 <./pics/picb.pdf> <./pics/picc.pdf>]
+) [5 <./pics/pica.pdf>] [6 <./pics/picb.pdf> <./pics/picc.pdf>]
 \openout2 = `chapters/ChapterC.aux'.
 
 
@@ -2140,7 +2140,7 @@ LaTeX Font Info:    Font shape `OT1/ptm/bx/n' in size <5> not available
 
 pdfTeX warning: pdflatex (file ./pics/tablea.pdf): PDF inclusion: found PDF ver
 sion <1.6>, but at most version <1.5> allowed
-<pics/tablea.pdf, id=517, 367.53813pt x 96.7876pt>
+<pics/tablea.pdf, id=524, 367.53813pt x 96.7876pt>
 File: pics/tablea.pdf Graphic file (type pdf)
  <use pics/tablea.pdf>
 Package pdftex.def Info: pics/tablea.pdf used on input line 22.
@@ -2153,7 +2153,7 @@ LaTeX Warning: `h' float specifier changed to `ht'.
 
 pdfTeX warning: pdflatex (file ./pics/picd.pdf): PDF inclusion: found PDF versi
 on <1.6>, but at most version <1.5> allowed
-<pics/picd.pdf, id=520, 402.50375pt x 332.24126pt>
+<pics/picd.pdf, id=527, 402.50375pt x 332.24126pt>
 File: pics/picd.pdf Graphic file (type pdf)
  <use pics/picd.pdf>
 Package pdftex.def Info: pics/picd.pdf used on input line 30.
@@ -2162,7 +2162,7 @@ Package pdftex.def Info: pics/picd.pdf used on input line 30.
 
 pdfTeX warning: pdflatex (file ./pics/pice.pdf): PDF inclusion: found PDF versi
 on <1.6>, but at most version <1.5> allowed
-<pics/pice.pdf, id=521, 416.55624pt x 326.21875pt>
+<pics/pice.pdf, id=528, 416.55624pt x 326.21875pt>
 File: pics/pice.pdf Graphic file (type pdf)
  <use pics/pice.pdf>
 Package pdftex.def Info: pics/pice.pdf used on input line 31.
@@ -2171,7 +2171,7 @@ Package pdftex.def Info: pics/pice.pdf used on input line 31.
 
 LaTeX Warning: `h' float specifier changed to `ht'.
 
-[6
+[7
 
 
 
@@ -2183,13 +2183,13 @@ Package hyperref Info: bookmark level for unknown dingli defaults to 0 on input
  line 41.
 Package hyperref Info: bookmark level for unknown zhengming defaults to 0 on in
 put line 45.
-) [7 <./pics/tablea.pdf> <./pics/picd.pdf> <./pics/pice.pdf>] [8]
+) [8 <./pics/tablea.pdf> <./pics/picd.pdf> <./pics/pice.pdf>] [9]
 \openout2 = `chapters/ChapterD.aux'.
 
 
 (./chapters/ChapterD.tex
 第4章
-) [9
+) [10
 
 
 
@@ -2206,7 +2206,7 @@ Package hyperref Warning: Option `pdflang' has already been used,
 Package hyperref Warning: Option `pdfpagelayout' has already been used,
 (hyperref)                setting the option has no effect on input line 12.
 
-(./thesis.bbl<<ot1tt.cmap>>) [10
+(./thesis.bbl<<ot1tt.cmap>>) [11
 
 
 ]
@@ -2215,7 +2215,7 @@ Package hyperref Warning: Token not allowed in a PDF string (Unicode):
 (hyperref)                \kern 6.025pt
 (hyperref)                replaced by space on input line 12.
 
-(./contents/acknowledgements.tex) (./contents/appendix.tex) [11
+(./contents/acknowledgements.tex) (./contents/appendix.tex) [12
 
 ]
 *************************************************
@@ -2228,11 +2228,11 @@ Package hyperref Warning: Token not allowed in a PDF string (Unicode):
 
 (./contents/original.tex
 
-) [12
+) [13
 
 
 
-] [13]
+] [14]
 \openout2 = `contents/translation.aux'.
 
  (./contents/translation.texpdfTeX warning (ext4): destination with the same id
@@ -2287,8 +2287,8 @@ n/12.05/62 @ \C70/rm/m/n/12.05/4e �\OT1/ptm/m/n/12.05 T[]X\C70/rm/m/n/12.05/4e
  []
 
 )
-Package atenddvi Info: Last page = 24.
- [14
+Package atenddvi Info: Last page = 25.
+ [15
 
 
 
@@ -2302,27 +2302,27 @@ Package atveryend Info: Executing hook `AfterLastShipout' on input line 12.
 Package atveryend Info: Executing hook `AtVeryEndDocument' on input line 12.
 Package atveryend Info: Executing hook `AtEndAfterFileList' on input line 12.
 Package rerunfilecheck Info: File `thesis.out' has not changed.
-(rerunfilecheck)             Checksum: 84724C41D48AB54E6989F7678713F32B;4433.
+(rerunfilecheck)             Checksum: FEC0374992E100846F236CBD327F8F12;4803.
  ) 
 Here is how much of TeX's memory you used:
- 31320 strings out of 493014
- 520029 string characters out of 6133350
- 610622 words of memory out of 5000000
- 33595 multiletter control sequences out of 15000+600000
- 121594 words of font info for 393 fonts, out of 8000000 for 9000
+ 31563 strings out of 493014
+ 523022 string characters out of 6133350
+ 611648 words of memory out of 5000000
+ 33829 multiletter control sequences out of 15000+600000
+ 121324 words of font info for 392 fonts, out of 8000000 for 9000
  1141 hyphenation exceptions out of 8191
- 56i,11n,83p,10565b,767s stack positions out of 5000i,500n,10000p,200000b,80000s
-<simsun.ttc>{/usr/local/texlive/2016/texmf-dist/fonts/enc/dvips/base/8r.enc}<
-simsun.ttc><simhei.ttf><simsun.ttc><simhei.ttf><simhei.ttf><simhei.ttf><simhei.
-ttf><simhei.ttf><simhei.ttf><simhei.ttf><simhei.ttf><simsun.ttc><simhei.ttf><si
-msun.ttc><simhei.ttf><simsun.ttc><simhei.ttf><simhei.ttf><simsun.ttc><simsun.tt
-c><simsun.ttc><simhei.ttf><simhei.ttf><simsun.ttc><simhei.ttf><simhei.ttf><simh
-ei.ttf><simhei.ttf><simhei.ttf><simhei.ttf><simhei.ttf><simhei.ttf><simhei.ttf>
-<simhei.ttf><simhei.ttf><simhei.ttf><simhei.ttf><simhei.ttf><simhei.ttf><simsun
-.ttc><simhei.ttf><simhei.ttf><simhei.ttf><simhei.ttf><simhei.ttf><simhei.ttf><s
-imhei.ttf><simsun.ttc><simhei.ttf><simhei.ttf><simhei.ttf><simhei.ttf><simhei.t
-tf><simsun.ttc><simhei.ttf><simhei.ttf><simhei.ttf><simhei.ttf><simsun.ttc><sim
-sun.ttc><simsun.ttc><simsun.ttc><simsun.ttc><simsun.ttc><simsun.ttc><simsun.ttc
+ 56i,12n,83p,10565b,710s stack positions out of 5000i,500n,10000p,200000b,80000s
+<simhei.ttf>{/usr/local/texlive/2016/texmf-dist/fonts/enc/dvips/base/8r.enc}<
+simhei.ttf><simhei.ttf><simhei.ttf><simsun.ttc><simhei.ttf><simhei.ttf><simhei.
+ttf><simhei.ttf><simhei.ttf><simhei.ttf><simsun.ttc><simsun.ttc><simsun.ttc><si
+msun.ttc><simhei.ttf><simhei.ttf><simhei.ttf><simhei.ttf><simhei.ttf><simsun.tt
+c><simsun.ttc><simhei.ttf><simsun.ttc><simsun.ttc><simsun.ttc><simsun.ttc><sims
+un.ttc><simsun.ttc><simhei.ttf><simhei.ttf><simhei.ttf><simhei.ttf><simhei.ttf>
+<simhei.ttf><simhei.ttf><simhei.ttf><simhei.ttf><simhei.ttf><simhei.ttf><simhei
+.ttf><simhei.ttf><simhei.ttf><simsun.ttc><simhei.ttf><simhei.ttf><simhei.ttf><s
+imhei.ttf><simhei.ttf><simhei.ttf><simhei.ttf><simsun.ttc><simhei.ttf><simhei.t
+tf><simhei.ttf><simhei.ttf><simhei.ttf><simsun.ttc><simhei.ttf><simhei.ttf><sim
+hei.ttf><simhei.ttf><simsun.ttc><simsun.ttc><simsun.ttc><simsun.ttc><simsun.ttc
 ><simsun.ttc><simsun.ttc><simsun.ttc><simsun.ttc><simsun.ttc><simsun.ttc><simsu
 n.ttc><simsun.ttc><simsun.ttc><simsun.ttc><simsun.ttc><simsun.ttc><simsun.ttc><
 simsun.ttc><simsun.ttc><simsun.ttc><simsun.ttc><simsun.ttc><simsun.ttc><simsun.
@@ -2330,28 +2330,29 @@ ttc><simsun.ttc><simsun.ttc><simsun.ttc><simsun.ttc><simsun.ttc><simsun.ttc><si
 msun.ttc><simsun.ttc><simsun.ttc><simsun.ttc><simsun.ttc><simsun.ttc><simsun.tt
 c><simsun.ttc><simsun.ttc><simsun.ttc><simsun.ttc><simsun.ttc><simsun.ttc><sims
 un.ttc><simsun.ttc><simsun.ttc><simsun.ttc><simsun.ttc><simsun.ttc><simsun.ttc>
-<simsun.ttc><simsun.ttc><simsun.ttc><simsun.ttc><simsun.ttc><simhei.ttf><simhei
-.ttf><simsun.ttc><simsun.ttc></usr/local/texlive/2016/texmf-dist/fonts/type1/pu
-blic/amsfonts/cm/cmex10.pfb></usr/local/texlive/2016/texmf-dist/fonts/type1/pub
-lic/amsfonts/cm/cmmi10.pfb></usr/local/texlive/2016/texmf-dist/fonts/type1/publ
-ic/amsfonts/cm/cmmi12.pfb></usr/local/texlive/2016/texmf-dist/fonts/type1/publi
-c/amsfonts/cm/cmmi7.pfb></usr/local/texlive/2016/texmf-dist/fonts/type1/public/
-amsfonts/cm/cmmi8.pfb></usr/local/texlive/2016/texmf-dist/fonts/type1/public/am
-sfonts/cm/cmr10.pfb></usr/local/texlive/2016/texmf-dist/fonts/type1/public/amsf
-onts/cm/cmr12.pfb></usr/local/texlive/2016/texmf-dist/fonts/type1/public/amsfon
-ts/cm/cmr7.pfb></usr/local/texlive/2016/texmf-dist/fonts/type1/public/amsfonts/
-cm/cmr8.pfb></usr/local/texlive/2016/texmf-dist/fonts/type1/public/amsfonts/cm/
-cmsy10.pfb></usr/local/texlive/2016/texmf-dist/fonts/type1/public/amsfonts/cm/c
-msy7.pfb></usr/local/texlive/2016/texmf-dist/fonts/type1/public/amsfonts/cm/cms
-y8.pfb></usr/local/texlive/2016/texmf-dist/fonts/type1/public/amsfonts/cm/cmtt1
-0.pfb></usr/local/texlive/2016/texmf-dist/fonts/type1/urw/times/utmb8a.pfb></us
-r/local/texlive/2016/texmf-dist/fonts/type1/urw/times/utmr8a.pfb></usr/local/te
-xlive/2016/texmf-dist/fonts/type1/urw/times/utmr8a.pfb></usr/local/texlive/2016
-/texmf-dist/fonts/type1/urw/zapfding/uzdr.pfb>
-Output written on thesis.pdf (24 pages, 879631 bytes).
+<simsun.ttc><simsun.ttc><simsun.ttc><simsun.ttc><simsun.ttc><simsun.ttc><simsun
+.ttc><simsun.ttc><simhei.ttf><simhei.ttf><simsun.ttc><simsun.ttc></usr/local/te
+xlive/2016/texmf-dist/fonts/type1/public/amsfonts/cm/cmex10.pfb></usr/local/tex
+live/2016/texmf-dist/fonts/type1/public/amsfonts/cm/cmmi10.pfb></usr/local/texl
+ive/2016/texmf-dist/fonts/type1/public/amsfonts/cm/cmmi12.pfb></usr/local/texli
+ve/2016/texmf-dist/fonts/type1/public/amsfonts/cm/cmmi7.pfb></usr/local/texlive
+/2016/texmf-dist/fonts/type1/public/amsfonts/cm/cmmi8.pfb></usr/local/texlive/2
+016/texmf-dist/fonts/type1/public/amsfonts/cm/cmr10.pfb></usr/local/texlive/201
+6/texmf-dist/fonts/type1/public/amsfonts/cm/cmr12.pfb></usr/local/texlive/2016/
+texmf-dist/fonts/type1/public/amsfonts/cm/cmr7.pfb></usr/local/texlive/2016/tex
+mf-dist/fonts/type1/public/amsfonts/cm/cmr8.pfb></usr/local/texlive/2016/texmf-
+dist/fonts/type1/public/amsfonts/cm/cmsy10.pfb></usr/local/texlive/2016/texmf-d
+ist/fonts/type1/public/amsfonts/cm/cmsy7.pfb></usr/local/texlive/2016/texmf-dis
+t/fonts/type1/public/amsfonts/cm/cmsy8.pfb></usr/local/texlive/2016/texmf-dist/
+fonts/type1/public/amsfonts/cm/cmtt10.pfb></usr/local/texlive/2016/texmf-dist/f
+onts/type1/urw/times/utmb8a.pfb></usr/local/texlive/2016/texmf-dist/fonts/type1
+/urw/times/utmr8a.pfb></usr/local/texlive/2016/texmf-dist/fonts/type1/urw/times
+/utmr8a.pfb></usr/local/texlive/2016/texmf-dist/fonts/type1/urw/zapfding/uzdr.p
+fb>
+Output written on thesis.pdf (25 pages, 910054 bytes).
 PDF statistics:
- 1076 PDF objects out of 1200 (max. 8388607)
- 783 compressed objects within 8 object streams
- 90 named destinations out of 1000 (max. 500000)
- 599 words of extra memory for PDF output out of 10000 (max. 10000000)
+ 1099 PDF objects out of 1200 (max. 8388607)
+ 799 compressed objects within 8 object streams
+ 94 named destinations out of 1000 (max. 500000)
+ 635 words of extra memory for PDF output out of 10000 (max. 10000000)
 
