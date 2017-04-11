@@ -5,27 +5,30 @@
 \contentsline {subsection}{\numberline {1.1.3}计算机视觉的关键问题}{2}{subsection.1.1.3}
 \contentsline {section}{\numberline {1.2}双目视觉系统简介}{3}{section.1.2}
 \contentsline {section}{\numberline {1.3}立体匹配技术简介}{3}{section.1.3}
-\contentsline {section}{\numberline {1.4}本文内容结构}{3}{section.1.4}
-\contentsline {chapter}{\numberline {第2章\hspace {0.3em}}时域积分方程基础}{4}{chapter.2}
-\contentsline {section}{\numberline {2.1}时域积分方程的类型}{4}{section.2.1}
-\contentsline {section}{\numberline {2.2}空间基函数与时间基函数}{4}{section.2.2}
-\contentsline {subsection}{\numberline {2.2.1}空间基函数}{4}{subsection.2.2.1}
-\contentsline {subsection}{\numberline {2.2.2}时间基函数}{4}{subsection.2.2.2}
-\contentsline {subsubsection}{\numberline {2.2.2.1}时域方法特有的展开函数}{5}{subsubsection.2.2.2.1}
-\contentsline {subsubsection}{\numberline {2.2.2.2}频域方法特有的展开函数}{5}{subsubsection.2.2.2.2}
-\contentsline {section}{\numberline {2.3}入射波}{5}{section.2.3}
-\contentsline {section}{\numberline {2.4}本章小结}{5}{section.2.4}
-\contentsline {chapter}{\numberline {第3章\hspace {0.3em}}时域积分方程数值方法研究}{7}{chapter.3}
-\contentsline {section}{\numberline {3.1}时域积分方程时间步进算法的阻抗元素精确计算}{7}{section.3.1}
-\contentsline {section}{\numberline {3.2}时域积分方程时间步进算法阻抗矩阵的存储}{7}{section.3.2}
-\contentsline {subsection}{\numberline {3.2.1}时域积分方程时间步进算法产生的阻抗矩阵的特征}{7}{subsection.3.2.1}
-\contentsline {subsection}{\numberline {3.2.2}数值算例与分析}{7}{subsection.3.2.2}
-\contentsline {section}{\numberline {3.3}时域积分方程时间步进算法矩阵方程的求解}{8}{section.3.3}
-\contentsline {section}{\numberline {3.4}本章小结}{9}{section.3.4}
-\contentsline {chapter}{\numberline {第4章\hspace {0.3em}}全文总结与展望}{10}{chapter.4}
-\contentsline {section}{\numberline {4.1}全文总结}{10}{section.4.1}
-\contentsline {section}{\numberline {4.2}后续工作展望}{10}{section.4.2}
-\contentsline {chapter}{参考文献}{11}{section*.8}
-\contentsline {chapter}{致\kern .5em 谢}{12}{section*.11}
-\contentsline {chapter}{外文资料原文}{13}{section*.12}
-\contentsline {chapter}{外文资料译文}{15}{section*.13}
+\contentsline {section}{\numberline {1.4}本课题主要研究内容}{4}{section.1.4}
+\contentsline {section}{\numberline {1.5}本文结构安排}{4}{section.1.5}
+\contentsline {chapter}{\numberline {第2章\hspace {0.3em}}双目视觉系统}{5}{chapter.2}
+\contentsline {section}{\numberline {2.1}双目视觉系统概述}{5}{section.2.1}
+\contentsline {section}{\numberline {2.2}双目视觉系统的基本原理}{5}{section.2.2}
+\contentsline {section}{\numberline {2.3}摄像机的标定}{7}{section.2.3}
+\contentsline {chapter}{\numberline {第3章\hspace {0.3em}}立体匹配方法及优化}{9}{chapter.3}
+\contentsline {section}{\numberline {3.1}立体匹配方法简介}{9}{section.3.1}
+\contentsline {section}{\numberline {3.2}立体匹配方法的分类和基本过程}{10}{section.3.2}
+\contentsline {subsection}{\numberline {3.2.1}基于特征的立体匹配方法}{11}{subsection.3.2.1}
+\contentsline {subsection}{\numberline {3.2.2}全局立体匹配方法}{12}{subsection.3.2.2}
+\contentsline {subsection}{\numberline {3.2.3}局部立体匹配方法}{12}{subsection.3.2.3}
+\contentsline {section}{\numberline {3.3}立体匹配的难点和算法优化方向}{14}{section.3.3}
+\contentsline {chapter}{\numberline {第4章\hspace {0.3em}}双目视觉系统的构建及实验总结}{16}{chapter.4}
+\contentsline {section}{\numberline {4.1}摄像机离线标定}{16}{section.4.1}
+\contentsline {section}{\numberline {4.2}实验过程匹配效果的评估}{18}{section.4.2}
+\contentsline {section}{\numberline {4.3}局部立体匹配SAD算法实现}{20}{section.4.3}
+\contentsline {section}{\numberline {4.4}匹配窗口的选择}{22}{section.4.4}
+\contentsline {section}{\numberline {4.5}优化实验算法}{22}{section.4.5}
+\contentsline {subsection}{\numberline {4.5.1}增加Census变换}{23}{subsection.4.5.1}
+\contentsline {subsection}{\numberline {4.5.2}双向匹配遮挡检测}{25}{subsection.4.5.2}
+\contentsline {subsection}{\numberline {4.5.3}基于几何距离的自适应权重}{26}{subsection.4.5.3}
+\contentsline {section}{\numberline {4.6}实验结论及全文最后总结}{27}{section.4.6}
+\contentsline {chapter}{参考文献}{28}{section*.28}
+\contentsline {chapter}{致\kern .5em 谢}{29}{section*.31}
+\contentsline {chapter}{外文资料原文}{30}{section*.32}
+\contentsline {chapter}{外文资料译文}{32}{section*.33}

@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.14159265-2.6-1.40.17 (TeX Live 2016) (preloaded format=pdflatex 2016.10.28)  6 APR 2017 13:03
+This is pdfTeX, Version 3.14159265-2.6-1.40.17 (TeX Live 2016) (preloaded format=pdflatex 2016.10.28)  11 APR 2017 16:31
 entering extended mode
  restricted \write18 enabled.
  %&-line parsing enabled.
@@ -2065,135 +2065,257 @@ LaTeX Font Info:    Font shape `OT1/ptm/bx/n' in size <14.05249> not available
 [1
 
 
-] [2]) [3]
+] [2] [3]) [4]
 \openout2 = `chapters/ChapterB.aux'.
 
  (./chapters/ChapterB.tex
 Á¨¨2Á´†
+<pics/2-3.pdf, id=437, 416.55624pt x 165.61874pt>
+File: pics/2-3.pdf Graphic file (type pdf)
+ <use pics/2-3.pdf>
+Package pdftex.def Info: pics/2-3.pdf used on input line 18.
+(pdftex.def)             Requested size: 398.33858pt x 158.38313pt.
 
 
-pdfTeX warning: pdflatex (file ./pics/pica.pdf): PDF inclusion: found PDF versi
-on <1.7>, but at most version <1.5> allowed
-<pics/pica.pdf, id=423, 156.36618pt x 113.00317pt>
-File: pics/pica.pdf Graphic file (type pdf)
- <use pics/pica.pdf>
-Package pdftex.def Info: pics/pica.pdf used on input line 24.
-(pdftex.def)             Requested size: 156.36578pt x 113.00288pt.
+LaTeX Warning: `h' float specifier changed to `ht'.
 
-Overfull \hbox (17.08257pt too wide) in paragraph at lines 22--25
-\C70/rm/m/n/12.05/51 v \C70/rm/m/n/12.05/4e -|\C70/rm/m/n/12.05/ff ^^L| $\OML/c
-mm/m/it/12.05 l[]$\C70/rm/m/n/12.05/4e : 	 \C70/rm/m/n/12.05/89 “ \C70/rm/m/n/1
-2.05/5f b \C70/rm/m/n/12.05/53 U \C70/rm/m/n/12.05/51 C$\OML/cmm/m/it/12.05 T[]
-$\C70/rm/m/n/12.05/54 å$\OML/cmm/m/it/12.05 T[]$\C70/rm/m/n/12.05/51 l q \C70/r
-m/m/n/12.05/8f π \C70/rm/m/n/12.05/76 Ñ \C70/rm/m/n/12.05/95 ^^? \C70/rm/m/n/12
-.05/5e ¶|\C70/rm/m/n/12.05/ff ^^L| $\OML/cmm/m/it/12.05 A[]$\C70/rm/m/n/12.05/5
-4 å$\OML/cmm/m/it/12.05 A[]$\C70/rm/m/n/12.05/52 ^^F + \C70/rm/m/n/12.05/4e : 	
- \C70/rm/m/n/12.05/89 “ \C70/rm/m/n/12.05/5f b \C70/rm/m/n/12.05/53 U \C70/rm/m
-/n/12.05/51 C$\OML/cmm/m/it/12.05 T[]$\C70/rm/m/n/12.05/54 å$\OML/cmm/m/it/12.0
-5 T[]$\C70/rm/m/n/12.05/76 Ñ
+[5
+
+
+
+] <pics/2-1.pdf, id=447, 311.1625pt x 180.675pt>
+File: pics/2-1.pdf Graphic file (type pdf)
+ <use pics/2-1.pdf>
+Package pdftex.def Info: pics/2-1.pdf used on input line 29.
+(pdftex.def)             Requested size: 312.9803pt x 181.73318pt.
+ [6 <./pics/2-3.pdf> <./pics/2-1.pdf>] <pics/2-2.pdf, id=476, 354.32375pt x 310
+.15875pt>
+File: pics/2-2.pdf Graphic file (type pdf)
+
+<use pics/2-2.pdf>
+Package pdftex.def Info: pics/2-2.pdf used on input line 38.
+(pdftex.def)             Requested size: 195.02463pt x 170.71652pt.
+ [7 <./pics/2-2.pdf>]) [8]
+\openout2 = `chapters/ChapterC.aux'.
+
+ (./chapters/ChapterC.tex
+Á¨¨3Á´†
+<pics/3-1.pdf, id=503, 202.7575pt x 262.9825pt>
+File: pics/3-1.pdf Graphic file (type pdf)
+ <use pics/3-1.pdf>
+Package pdftex.def Info: pics/3-1.pdf used on input line 11.
+(pdftex.def)             Requested size: 131.62683pt x 170.71652pt.
+ [9
+
+
+
+ <./pics/3-1.pdf>] [10] <pics/3-2.pdf, id=530, 416.55624pt x 254.9525pt>
+File: pics/3-2.pdf Graphic file (type pdf)
+
+<use pics/3-2.pdf>
+Package pdftex.def Info: pics/3-2.pdf used on input line 31.
+(pdftex.def)             Requested size: 278.93867pt x 170.71652pt.
+ [11 <./pics/3-2.pdf>]
+Overfull \hbox (27.22798pt too wide) in paragraph at lines 43--44
+\C70/rm/m/n/12.05/88 L|\C70/rm/m/n/12.05/ff ^^L| \C70/rm/m/n/12.05/8f — \C70/rm
+/m/n/12.05/5e t \C70/rm/m/n/12.05/67 e \C70/rm/m/n/12.05/96 è \C70/rm/m/n/12.05
+/77 @ \C70/rm/m/n/12.05/8b ° \C70/rm/m/n/12.05/7b ó \C70/rm/m/n/12.05/67 : \C70
+/rm/m/n/12.05/8b ° \C70/rm/m/n/12.05/7b ó \C70/rm/m/n/12.05/80 ˝ \C70/rm/m/n/12
+.05/52 õ \C70/rm/m/n/12.05/76 Ñ \C70/rm/m/n/12.05/59 ' \C70/rm/m/n/12.05/5e E \
+C70/rm/m/n/12.05/4e 
+ \C70/rm/m/n/12.05/53 G \C70/rm/m/n/12.05/67 	 \C70/rm/m/n/12.05/62 @ \C70/rm/m
+/n/12.05/65 9 \C70/rm/m/n/12.05/55 Ñ|\C70/rm/m/n/12.05/30 ^^B| \C70/rm/m/n/12.0
+5/4e ; \C70/rm/m/n/12.05/89 Å \C70/rm/m/n/12.05/76 Ñ \C70/rm/m/n/12.05/7b ó \C7
+0/rm/m/n/12.05/6c ’ \C70/rm/m/n/12.05/67 	 \C70/rm/m/n/12.05/56 ˛ \C70/rm/m/n/1
+2.05/52 r |\C70/rm/m/n/12.05/ff ^^H|\OT1/ptm/m/n/12.05 graphcuts|\C70/rm/m/n/12
+.05/ff 	||\C70/rm/m/n/12.05/30 ^^A|
+ []
+
+[12] [13] <pics/3-5.pdf, id=560, 392.46625pt x 207.77625pt>
+File: pics/3-5.pdf Graphic file (type pdf)
+ <use pics/3-5.pdf>
+Package pdftex.def Info: pics/3-5.pdf used on input line 69.
+(pdftex.def)             Requested size: 322.47714pt x 170.71652pt.
+
+[14 <./pics/3-5.pdf>]) [15]
+\openout2 = `chapters/ChapterD.aux'.
+
+ (./chapters/ChapterD.tex
+Á¨¨4Á´†
+<pics/4-3.pdf, id=588, 416.55624pt x 399.4925pt>
+File: pics/4-3.pdf Graphic file (type pdf)
+ <use pics/4-3.pdf>
+Package pdftex.def Info: pics/4-3.pdf used on input line 10.
+(pdftex.def)             Requested size: 178.00972pt x 170.71652pt.
+ [16
+
+
+
+ <./pics/4-3.pdf>] <pics/4-6.pdf, id=608, 416.55624pt x 319.1925pt>
+File: pics/4-6.pdf Graphic file (type pdf)
+ <use pics/4-6.pdf>
+Package pdftex.def Info: pics/4-6.pdf used on input line 39.
+(pdftex.def)             Requested size: 222.78865pt x 170.71652pt.
+
+<pics/4-7.pdf, id=609, 416.55624pt x 320.19624pt>
+File: pics/4-7.pdf Graphic file (type pdf)
+ <use pics/4-7.pdf>
+Package pdftex.def Info: pics/4-7.pdf used on input line 40.
+(pdftex.def)             Requested size: 222.09583pt x 170.71652pt.
+
+
+LaTeX Warning: `h' float specifier changed to `ht'.
+
+<pics/4-4.pdf, id=610, 416.55624pt x 264.99pt>
+File: pics/4-4.pdf Graphic file (type pdf)
+ <use pics/4-4.pdf>
+Package pdftex.def Info: pics/4-4.pdf used on input line 43.
+(pdftex.def)             Requested size: 268.36209pt x 170.71652pt.
+
+<pics/4-8.pdf, id=611, 416.55624pt x 297.11pt>
+File: pics/4-8.pdf Graphic file (type pdf)
+ <use pics/4-8.pdf>
+Package pdftex.def Info: pics/4-8.pdf used on input line 44.
+(pdftex.def)             Requested size: 239.35907pt x 170.71652pt.
+
+
+LaTeX Warning: `h' float specifier changed to `ht'.
+
+
+LaTeX Warning: `h' float specifier changed to `ht'.
+
+[17 <./pics/4-6.pdf>] [18 <./pics/4-7.pdf> <./pics/4-4.pdf>]
+<pics/4-5.pdf, id=664, 416.55624pt x 184.69pt>
+File: pics/4-5.pdf Graphic file (type pdf)
+ <use pics/4-5.pdf>
+Package pdftex.def Info: pics/4-5.pdf used on input line 64.
+(pdftex.def)             Requested size: 385.04153pt x 170.71652pt.
+ [19 <./pics/4-8.pdf> <./pics/4-5.pdf>] <pics/4-2.pdf, id=700, 416.55624pt x 33
+3.245pt>
+File: pics/4-2.pdf Graphic file (type pdf)
+
+<use pics/4-2.pdf>
+Package pdftex.def Info: pics/4-2.pdf used on input line 68.
+(pdftex.def)             Requested size: 213.40065pt x 170.71652pt.
+ <pics/3-4.pdf, id=701, 266.9975pt x 249.93375pt>
+File: pics/3-4.pdf Graphic file (type pdf)
+
+<use pics/3-4.pdf>
+Package pdftex.def Info: pics/3-4.pdf used on input line 76.
+(pdftex.def)             Requested size: 182.37883pt x 170.71652pt.
+
+Overfull \hbox (24.85149pt too wide) in paragraph at lines 78--79
+\OT1/ptm/m/n/12.05 Squared Dif-fer-ences,\C70/rm/m/n/12.05/7b Ä \C70/rm/m/n/12.
+05/79  \OT1/ptm/m/n/12.05 SSD)|\C70/rm/m/n/12.05/ff ^^L| \C70/rm/m/n/12.05/5f 
+R \C70/rm/m/n/12.05/4e ^^@ \C70/rm/m/n/12.05/53 ^^V \C70/rm/m/n/12.05/4e í \C70
+/rm/m/n/12.05/76 ¯ \C70/rm/m/n/12.05/51 s\OT1/ptm/m/n/12.05 (normalized cross c
+or-re-la-tion,\C70/rm/m/n/12.05/7b Ä \C70/rm/m/n/12.05/79  \OT1/ptm/m/n/12.05 
+NCC)\C70/rm/m/n/12.05/7b I|\C70/rm/m/n/12.05/ff ^^L|
+ []
+
+[20 <./pics/4-2.pdf> <./pics/3-4.pdf>]
+<pics/3-3.pdf, id=736, 327.2225pt x 235.88126pt>
+File: pics/3-3.pdf Graphic file (type pdf)
+ <use pics/3-3.pdf>
+Package pdftex.def Info: pics/3-3.pdf used on input line 85.
+(pdftex.def)             Requested size: 236.8283pt x 170.71652pt.
+LaTeX Font Info:    Try loading font information for OMS+ptm on input line 89.
+
+(/usr/local/texlive/2016/texmf-dist/tex/latex/psnfss/omsptm.fd
+File: omsptm.fd 
+)
+LaTeX Font Info:    Font shape `OMS/ptm/m/n' in size <12.05> not available
+(Font)              Font shape `OMS/cmsy/m/n' tried instead on input line 89.
+
+<pics/4-10.pdf, id=738, 416.55624pt x 292.09125pt>
+File: pics/4-10.pdf Graphic file (type pdf)
+ <use pics/4-10.pdf>
+Package pdftex.def Info: pics/4-10.pdf used on input line 103.
+(pdftex.def)             Requested size: 243.47148pt x 170.71652pt.
+
+
+LaTeX Warning: `h' float specifier changed to `ht'.
+
+[21 <./pics/3-3.pdf>] <pics/4-12.pdf, id=760, 416.55624pt x 284.06125pt>
+File: pics/4-12.pdf Graphic file (type pdf)
+
+<use pics/4-12.pdf>
+Package pdftex.def Info: pics/4-12.pdf used on input line 116.
+(pdftex.def)             Requested size: 250.35518pt x 170.71652pt.
+
+
+LaTeX Warning: `h' float specifier changed to `ht'.
+
+<pics/4-13.pdf, id=761, 416.55624pt x 290.08376pt>
+File: pics/4-13.pdf Graphic file (type pdf)
+ <use pics/4-13.pdf>
+Package pdftex.def Info: pics/4-13.pdf used on input line 117.
+(pdftex.def)             Requested size: 245.1495pt x 170.71652pt.
+
+
+LaTeX Warning: `h' float specifier changed to `ht'.
+
+<pics/3-6.pdf, id=762, 416.55624pt x 85.31876pt>
+File: pics/3-6.pdf Graphic file (type pdf)
+ <use pics/3-6.pdf>
+Package pdftex.def Info: pics/3-6.pdf used on input line 127.
+(pdftex.def)             Requested size: 833.55536pt x 170.71652pt.
+
+Overfull \hbox (406.764pt too wide) in paragraph at lines 127--127
+ [][] 
+ []
+
+[22 <./pics/4-10.pdf>]
+
+LaTeX Warning: `h' float specifier changed to `ht'.
+
+<pics/3-7.pdf, id=781, 379.4175pt x 422.57875pt>
+File: pics/3-7.pdf Graphic file (type pdf)
+ <use pics/3-7.pdf>
+Package pdftex.def Info: pics/3-7.pdf used on input line 131.
+(pdftex.def)             Requested size: 153.28113pt x 170.71652pt.
+
+
+LaTeX Warning: `h' float specifier changed to `ht'.
+
+[23 <./pics/4-12.pdf> <./pics/4-13.pdf>] [24 <./pics/3-6.pdf> <./pics/3-7.pdf>]
+<pics/3-8.pdf, id=849, 444.66125pt x 124.465pt>
+File: pics/3-8.pdf Graphic file (type pdf)
+ <use pics/3-8.pdf>
+Package pdftex.def Info: pics/3-8.pdf used on input line 141.
+(pdftex.def)             Requested size: 609.94894pt x 170.71652pt.
+
+Overfull \hbox (183.1576pt too wide) in paragraph at lines 141--141
+ [][] 
+ []
+
+<pics/4-14.pdf, id=851, 416.55624pt x 124.465pt>
+File: pics/4-14.pdf Graphic file (type pdf)
+ <use pics/4-14.pdf>
+Package pdftex.def Info: pics/4-14.pdf used on input line 147.
+(pdftex.def)             Requested size: 571.39685pt x 170.71652pt.
+
+Overfull \hbox (144.6055pt too wide) in paragraph at lines 147--147
+ [][] 
  []
 
 
 LaTeX Warning: `h' float specifier changed to `ht'.
 
-LaTeX Font Info:    Font shape `OT1/ptm/bx/n' in size <12.045> not available
-(Font)              Font shape `OT1/ptm/b/n' tried instead on input line 30.
-[4
+[25 <./pics/3-8.pdf>] <pics/3-9.pdf, id=871, 349.305pt x 195.73125pt>
+File: pics/3-9.pdf Graphic file (type pdf)
 
-
-
-]
-
-pdfTeX warning: pdflatex (file ./pics/picb.pdf): PDF inclusion: found PDF versi
-on <1.6>, but at most version <1.5> allowed
-<pics/picb.pdf, id=447, 395.4775pt x 324.21124pt>
-File: pics/picb.pdf Graphic file (type pdf)
- <use pics/picb.pdf>
-Package pdftex.def Info: pics/picb.pdf used on input line 39.
-(pdftex.def)             Requested size: 207.70724pt x 169.29329pt.
-
-
-pdfTeX warning: pdflatex (file ./pics/picc.pdf): PDF inclusion: found PDF versi
-on <1.6>, but at most version <1.5> allowed
-<pics/picc.pdf, id=448, 377.41pt x 331.2375pt>
-File: pics/picc.pdf Graphic file (type pdf)
- <use pics/picc.pdf>
-Package pdftex.def Info: pics/picc.pdf used on input line 40.
-(pdftex.def)             Requested size: 182.38136pt x 160.75612pt.
-
-
-LaTeX Warning: `h' float specifier changed to `ht'.
-
-) [5 <./pics/pica.pdf>] [6 <./pics/picb.pdf> <./pics/picc.pdf>]
-\openout2 = `chapters/ChapterC.aux'.
-
-
-(./chapters/ChapterC.tex
-Á¨¨3Á´†
-LaTeX Font Info:    Font shape `OT1/ptm/bx/n' in size <10.53937> not available
-(Font)              Font shape `OT1/ptm/b/n' tried instead on input line 22.
-LaTeX Font Info:    Font shape `OT1/ptm/bx/n' in size <7> not available
-(Font)              Font shape `OT1/ptm/b/n' tried instead on input line 22.
-LaTeX Font Info:    Font shape `OT1/ptm/bx/n' in size <5> not available
-(Font)              Font shape `OT1/ptm/b/n' tried instead on input line 22.
-
-
-pdfTeX warning: pdflatex (file ./pics/tablea.pdf): PDF inclusion: found PDF ver
-sion <1.6>, but at most version <1.5> allowed
-<pics/tablea.pdf, id=524, 367.53813pt x 96.7876pt>
-File: pics/tablea.pdf Graphic file (type pdf)
- <use pics/tablea.pdf>
-Package pdftex.def Info: pics/tablea.pdf used on input line 22.
-(pdftex.def)             Requested size: 367.53723pt x 96.78735pt.
-
-
-LaTeX Warning: `h' float specifier changed to `ht'.
-
-
-
-pdfTeX warning: pdflatex (file ./pics/picd.pdf): PDF inclusion: found PDF versi
-on <1.6>, but at most version <1.5> allowed
-<pics/picd.pdf, id=527, 402.50375pt x 332.24126pt>
-File: pics/picd.pdf Graphic file (type pdf)
- <use pics/picd.pdf>
-Package pdftex.def Info: pics/picd.pdf used on input line 30.
-(pdftex.def)             Requested size: 192.33975pt x 158.76424pt.
-
-
-pdfTeX warning: pdflatex (file ./pics/pice.pdf): PDF inclusion: found PDF versi
-on <1.6>, but at most version <1.5> allowed
-<pics/pice.pdf, id=528, 416.55624pt x 326.21875pt>
-File: pics/pice.pdf Graphic file (type pdf)
- <use pics/pice.pdf>
-Package pdftex.def Info: pics/pice.pdf used on input line 31.
-(pdftex.def)             Requested size: 200.30702pt x 155.92616pt.
-
-
-LaTeX Warning: `h' float specifier changed to `ht'.
-
-[7
-
-
-
-]
-
-Package mathptmx Warning: There are no bold math fonts on input line 41.
-
-Package hyperref Info: bookmark level for unknown dingli defaults to 0 on input
- line 41.
-Package hyperref Info: bookmark level for unknown zhengming defaults to 0 on in
-put line 45.
-) [8 <./pics/tablea.pdf> <./pics/picd.pdf> <./pics/pice.pdf>] [9]
-\openout2 = `chapters/ChapterD.aux'.
-
-
-(./chapters/ChapterD.tex
-Á¨¨4Á´†
-) [10
-
-
-
-]
+<use pics/3-9.pdf>
+Package pdftex.def Info: pics/3-9.pdf used on input line 157.
+(pdftex.def)             Requested size: 304.68172pt x 170.71652pt.
+ [26 <./pics/4-14.pdf> <./pics/3-9.pdf>]
+<pics/4-15.pdf, id=903, 320.19624pt x 133.49875pt>
+File: pics/4-15.pdf Graphic file (type pdf)
+ <use pics/4-15.pdf>
+Package pdftex.def Info: pics/4-15.pdf used on input line 169.
+(pdftex.def)             Requested size: 409.50288pt x 170.71652pt.
+)
+[27 <./pics/4-15.pdf>]
 \tf@thm=\write9
 \openout9 = `thesis.thm'.
 
@@ -2206,7 +2328,14 @@ Package hyperref Warning: Option `pdflang' has already been used,
 Package hyperref Warning: Option `pdfpagelayout' has already been used,
 (hyperref)                setting the option has no effect on input line 12.
 
-(./thesis.bbl<<ot1tt.cmap>>) [11
+(./thesis.bbl<<ot1tt.cmap>>
+LaTeX Font Info:    Font shape `OT1/ptm/bx/n' in size <10.53937> not available
+(Font)              Font shape `OT1/ptm/b/n' tried instead on input line 66.
+LaTeX Font Info:    Font shape `OT1/ptm/bx/n' in size <7> not available
+(Font)              Font shape `OT1/ptm/b/n' tried instead on input line 66.
+LaTeX Font Info:    Font shape `OT1/ptm/bx/n' in size <5> not available
+(Font)              Font shape `OT1/ptm/b/n' tried instead on input line 66.
+) [28
 
 
 ]
@@ -2215,7 +2344,7 @@ Package hyperref Warning: Token not allowed in a PDF string (Unicode):
 (hyperref)                \kern 6.025pt
 (hyperref)                replaced by space on input line 12.
 
-(./contents/acknowledgements.tex) (./contents/appendix.tex) [12
+(./contents/acknowledgements.tex) (./contents/appendix.tex) [29
 
 ]
 *************************************************
@@ -2228,11 +2357,13 @@ Package hyperref Warning: Token not allowed in a PDF string (Unicode):
 
 (./contents/original.tex
 
-) [13
+LaTeX Font Info:    Font shape `OT1/ptm/bx/n' in size <12.045> not available
+(Font)              Font shape `OT1/ptm/b/n' tried instead on input line 6.
+) [30
 
 
 
-] [14]
+] [31]
 \openout2 = `contents/translation.aux'.
 
  (./contents/translation.texpdfTeX warning (ext4): destination with the same id
@@ -2287,8 +2418,8 @@ n/12.05/62 @ \C70/rm/m/n/12.05/4e Â\OT1/ptm/m/n/12.05 T[]X\C70/rm/m/n/12.05/4e
  []
 
 )
-Package atenddvi Info: Last page = 25.
- [15
+Package atenddvi Info: Last page = 42.
+ [32
 
 
 
@@ -2302,27 +2433,27 @@ Package atveryend Info: Executing hook `AfterLastShipout' on input line 12.
 Package atveryend Info: Executing hook `AtVeryEndDocument' on input line 12.
 Package atveryend Info: Executing hook `AtEndAfterFileList' on input line 12.
 Package rerunfilecheck Info: File `thesis.out' has not changed.
-(rerunfilecheck)             Checksum: FEC0374992E100846F236CBD327F8F12;4803.
+(rerunfilecheck)             Checksum: 8DD55F56D2A66763E2FCE649331DC0E6;5152.
  ) 
 Here is how much of TeX's memory you used:
- 31563 strings out of 493014
- 523022 string characters out of 6133350
- 611648 words of memory out of 5000000
- 33829 multiletter control sequences out of 15000+600000
- 121324 words of font info for 392 fonts, out of 8000000 for 9000
+ 31937 strings out of 493014
+ 527085 string characters out of 6133350
+ 614585 words of memory out of 5000000
+ 34180 multiletter control sequences out of 15000+600000
+ 105282 words of font info for 338 fonts, out of 8000000 for 9000
  1141 hyphenation exceptions out of 8191
- 56i,12n,83p,10565b,710s stack positions out of 5000i,500n,10000p,200000b,80000s
-<simhei.ttf>{/usr/local/texlive/2016/texmf-dist/fonts/enc/dvips/base/8r.enc}<
-simhei.ttf><simhei.ttf><simhei.ttf><simsun.ttc><simhei.ttf><simhei.ttf><simhei.
-ttf><simhei.ttf><simhei.ttf><simhei.ttf><simsun.ttc><simsun.ttc><simsun.ttc><si
-msun.ttc><simhei.ttf><simhei.ttf><simhei.ttf><simhei.ttf><simhei.ttf><simsun.tt
-c><simsun.ttc><simhei.ttf><simsun.ttc><simsun.ttc><simsun.ttc><simsun.ttc><sims
-un.ttc><simsun.ttc><simhei.ttf><simhei.ttf><simhei.ttf><simhei.ttf><simhei.ttf>
+ 56i,12n,83p,10565b,683s stack positions out of 5000i,500n,10000p,200000b,80000s
+<simhei.ttf><simhei.ttf>{/usr/local/texlive/2016/texmf-dist/fonts/enc/dvips/b
+ase/8r.enc}<simhei.ttf><simhei.ttf><simhei.ttf><simhei.ttf><simhei.ttf><simsun.
+ttc><simsun.ttc><simhei.ttf><simhei.ttf><simhei.ttf><simsun.ttc><simhei.ttf><si
+mhei.ttf><simsun.ttc><simhei.ttf><simhei.ttf><simhei.ttf><simhei.ttf><simhei.tt
+f><simsun.ttc><simsun.ttc><simhei.ttf><simhei.ttf><simsun.ttc><simsun.ttc><sims
+un.ttc><simsun.ttc><simsun.ttc><simsun.ttc><simhei.ttf><simhei.ttf><simhei.ttf>
 <simhei.ttf><simhei.ttf><simhei.ttf><simhei.ttf><simhei.ttf><simhei.ttf><simhei
-.ttf><simhei.ttf><simhei.ttf><simsun.ttc><simhei.ttf><simhei.ttf><simhei.ttf><s
-imhei.ttf><simhei.ttf><simhei.ttf><simhei.ttf><simsun.ttc><simhei.ttf><simhei.t
-tf><simhei.ttf><simhei.ttf><simhei.ttf><simsun.ttc><simhei.ttf><simhei.ttf><sim
-hei.ttf><simhei.ttf><simsun.ttc><simsun.ttc><simsun.ttc><simsun.ttc><simsun.ttc
+.ttf><simsun.ttc><simhei.ttf><simhei.ttf><simhei.ttf><simhei.ttf><simhei.ttf><s
+imhei.ttf><simhei.ttf><simhei.ttf><simhei.ttf><simhei.ttf><simhei.ttf><simsun.t
+tc><simhei.ttf><simhei.ttf><simhei.ttf><simhei.ttf><simhei.ttf><simsun.ttc><sim
+hei.ttf><simhei.ttf><simhei.ttf><simhei.ttf><simsun.ttc><simsun.ttc><simsun.ttc
 ><simsun.ttc><simsun.ttc><simsun.ttc><simsun.ttc><simsun.ttc><simsun.ttc><simsu
 n.ttc><simsun.ttc><simsun.ttc><simsun.ttc><simsun.ttc><simsun.ttc><simsun.ttc><
 simsun.ttc><simsun.ttc><simsun.ttc><simsun.ttc><simsun.ttc><simsun.ttc><simsun.
@@ -2331,28 +2462,17 @@ msun.ttc><simsun.ttc><simsun.ttc><simsun.ttc><simsun.ttc><simsun.ttc><simsun.tt
 c><simsun.ttc><simsun.ttc><simsun.ttc><simsun.ttc><simsun.ttc><simsun.ttc><sims
 un.ttc><simsun.ttc><simsun.ttc><simsun.ttc><simsun.ttc><simsun.ttc><simsun.ttc>
 <simsun.ttc><simsun.ttc><simsun.ttc><simsun.ttc><simsun.ttc><simsun.ttc><simsun
-.ttc><simsun.ttc><simhei.ttf><simhei.ttf><simsun.ttc><simsun.ttc></usr/local/te
-xlive/2016/texmf-dist/fonts/type1/public/amsfonts/cm/cmex10.pfb></usr/local/tex
-live/2016/texmf-dist/fonts/type1/public/amsfonts/cm/cmmi10.pfb></usr/local/texl
-ive/2016/texmf-dist/fonts/type1/public/amsfonts/cm/cmmi12.pfb></usr/local/texli
-ve/2016/texmf-dist/fonts/type1/public/amsfonts/cm/cmmi7.pfb></usr/local/texlive
-/2016/texmf-dist/fonts/type1/public/amsfonts/cm/cmmi8.pfb></usr/local/texlive/2
-016/texmf-dist/fonts/type1/public/amsfonts/cm/cmr10.pfb></usr/local/texlive/201
-6/texmf-dist/fonts/type1/public/amsfonts/cm/cmr12.pfb></usr/local/texlive/2016/
-texmf-dist/fonts/type1/public/amsfonts/cm/cmr7.pfb></usr/local/texlive/2016/tex
-mf-dist/fonts/type1/public/amsfonts/cm/cmr8.pfb></usr/local/texlive/2016/texmf-
-dist/fonts/type1/public/amsfonts/cm/cmsy10.pfb></usr/local/texlive/2016/texmf-d
-ist/fonts/type1/public/amsfonts/cm/cmsy7.pfb></usr/local/texlive/2016/texmf-dis
-t/fonts/type1/public/amsfonts/cm/cmsy8.pfb></usr/local/texlive/2016/texmf-dist/
-fonts/type1/public/amsfonts/cm/cmtt10.pfb></usr/local/texlive/2016/texmf-dist/f
-onts/type1/urw/times/utmb8a.pfb></usr/local/texlive/2016/texmf-dist/fonts/type1
-/urw/times/utmr8a.pfb></usr/local/texlive/2016/texmf-dist/fonts/type1/urw/times
-/utmr8a.pfb></usr/local/texlive/2016/texmf-dist/fonts/type1/urw/zapfding/uzdr.p
-fb>
-Output written on thesis.pdf (25 pages, 910054 bytes).
+.ttc><simsun.ttc><simsun.ttc><simsun.ttc><simhei.ttf><simhei.ttf><simsun.ttc><s
+imsun.ttc></usr/local/texlive/2016/texmf-dist/fonts/type1/public/amsfonts/cm/cm
+mi12.pfb></usr/local/texlive/2016/texmf-dist/fonts/type1/public/amsfonts/cm/cms
+y10.pfb></usr/local/texlive/2016/texmf-dist/fonts/type1/public/amsfonts/cm/cmtt
+10.pfb></usr/local/texlive/2016/texmf-dist/fonts/type1/urw/times/utmb8a.pfb></u
+sr/local/texlive/2016/texmf-dist/fonts/type1/urw/times/utmr8a.pfb></usr/local/t
+exlive/2016/texmf-dist/fonts/type1/urw/times/utmr8a.pfb>
+Output written on thesis.pdf (42 pages, 7189225 bytes).
 PDF statistics:
- 1099 PDF objects out of 1200 (max. 8388607)
- 799 compressed objects within 8 object streams
- 94 named destinations out of 1000 (max. 500000)
- 635 words of extra memory for PDF output out of 10000 (max. 10000000)
+ 1408 PDF objects out of 1440 (max. 8388607)
+ 1029 compressed objects within 11 object streams
+ 126 named destinations out of 1000 (max. 500000)
+ 745 words of extra memory for PDF output out of 10000 (max. 10000000)
 
