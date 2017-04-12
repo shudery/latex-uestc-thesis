@@ -701,6 +701,13 @@ INPUT pics/4-8.pdf
 INPUT ./pics/4-8.pdf
 INPUT ./pics/4-8.pdf
 INPUT /usr/local/texlive/2016/texmf-dist/fonts/tfm/zhmetrics/unisong/unisong51.tfm
+INPUT pics/4-16.pdf
+INPUT ./pics/4-16.pdf
+INPUT ./pics/4-16.pdf
+INPUT pics/4-17.pdf
+INPUT ./pics/4-17.pdf
+INPUT ./pics/4-17.pdf
+INPUT /usr/local/texlive/2016/texmf-dist/fonts/tfm/zhmetrics/unisong/unisong54.tfm
 INPUT /usr/local/texlive/2016/texmf-dist/fonts/tfm/zhmetrics/unihei/unihei9a.tfm
 INPUT pics/4-5.pdf
 INPUT ./pics/4-5.pdf
@@ -725,7 +732,6 @@ INPUT ./pics/4-10.pdf
 INPUT pics/4-12.pdf
 INPUT ./pics/4-12.pdf
 INPUT ./pics/4-12.pdf
-INPUT /usr/local/texlive/2016/texmf-dist/fonts/tfm/zhmetrics/unisong/unisong54.tfm
 INPUT /usr/local/texlive/2016/texmf-dist/fonts/tfm/zhmetrics/unisong/unisong73.tfm
 INPUT /usr/local/texlive/2016/texmf-dist/fonts/tfm/zhmetrics/unisong/unisongff.tfm
 INPUT pics/4-13.pdf
