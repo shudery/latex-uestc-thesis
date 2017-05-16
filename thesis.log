@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.14159265-2.6-1.40.17 (TeX Live 2016) (preloaded format=pdflatex 2016.10.28)  12 APR 2017 11:16
+This is pdfTeX, Version 3.14159265-2.6-1.40.17 (TeX Live 2016) (preloaded format=pdflatex 2016.10.28)  16 MAY 2017 11:14
 entering extended mode
  restricted \write18 enabled.
  %&-line parsing enabled.
@@ -1990,15 +1990,15 @@ LaTeX Font Info:    Try loading font information for C70+zhhei on input line 3.
 (/usr/local/texlive/2016/texmf-dist/tex/latex/zhmetrics/c70zhhei.fd
 File: c70zhhei.fd 2009/09/23 4.8.2
 )
-LaTeX Font Info:    Try loading font information for C70+rm on input line 5.
+LaTeX Font Info:    Try loading font information for C70+rm on input line 4.
 
 (/usr/local/texlive/2016/texmf-dist/tex/latex/ctex/fd/c70rm.fd
 File: c70rm.fd 2016/05/16 v2.4.2 Chinese font definition (CTEX)
 )
 Package CJKpunct Info: use punctuation spaces for family 'rm' with punctstyle (
-quanjiao) on input line 5.
+quanjiao) on input line 4.
 LaTeX Font Info:    Font shape `OT1/ptm/bx/n' in size <12.05> not available
-(Font)              Font shape `OT1/ptm/b/n' tried instead on input line 36.
+(Font)              Font shape `OT1/ptm/b/n' tried instead on input line 25.
 )
 (/usr/local/texlive/2016/texmf-dist/tex/generic/ctex/zhwindowsfonts.tex
 File: zhwindowsfonts.tex 2016/05/16 v2.4.2 Windows font map loader for pdfTeX a
@@ -2010,19 +2010,20 @@ nd DVIPDFMx (CTEX)
 
 
 
-] [2]
+] [2
+
+
+
+]
 \openout2 = `contents/Eabstract.aux'.
 
  (./contents/Eabstract.tex
 LaTeX Font Info:    Font shape `OT1/ptm/bx/n' in size <15.05624> not available
-(Font)              Font shape `OT1/ptm/b/n' tried instead on input line 4.
- [3
+(Font)              Font shape `OT1/ptm/b/n' tried instead on input line 3.
+) [3
 
 
-
-
-
-]) [4] (./thesis.toc
+] [4] (./thesis.toc
 LaTeX Font Info:    Calculating math sizes for size <12.05> on input line 1.
 <<oml.cmap>><<oms.cmap>><<omx.cmap>>
 LaTeX Font Info:    Font shape `OT1/ptm/bx/n' in size <8.91705> not available
@@ -2070,7 +2071,7 @@ LaTeX Font Info:    Font shape `OT1/ptm/bx/n' in size <14.05249> not available
 
  (./chapters/ChapterB.tex
 第2章
-<pics/2-3.pdf, id=437, 416.55624pt x 165.61874pt>
+<pics/2-3.pdf, id=435, 416.55624pt x 165.61874pt>
 File: pics/2-3.pdf Graphic file (type pdf)
  <use pics/2-3.pdf>
 Package pdftex.def Info: pics/2-3.pdf used on input line 18.
@@ -2083,12 +2084,12 @@ LaTeX Warning: `h' float specifier changed to `ht'.
 
 
 
-] <pics/2-1.pdf, id=447, 311.1625pt x 180.675pt>
+] <pics/2-1.pdf, id=445, 311.1625pt x 180.675pt>
 File: pics/2-1.pdf Graphic file (type pdf)
  <use pics/2-1.pdf>
 Package pdftex.def Info: pics/2-1.pdf used on input line 29.
 (pdftex.def)             Requested size: 312.9803pt x 181.73318pt.
- [6 <./pics/2-3.pdf> <./pics/2-1.pdf>] <pics/2-2.pdf, id=476, 354.32375pt x 310
+ [6 <./pics/2-3.pdf> <./pics/2-1.pdf>] <pics/2-2.pdf, id=474, 354.32375pt x 310
 .15875pt>
 File: pics/2-2.pdf Graphic file (type pdf)
 
@@ -2100,7 +2101,7 @@ Package pdftex.def Info: pics/2-2.pdf used on input line 38.
 
  (./chapters/ChapterC.tex
 第3章
-<pics/3-1.pdf, id=503, 202.7575pt x 262.9825pt>
+<pics/3-1.pdf, id=501, 202.7575pt x 262.9825pt>
 File: pics/3-1.pdf Graphic file (type pdf)
  <use pics/3-1.pdf>
 Package pdftex.def Info: pics/3-1.pdf used on input line 11.
@@ -2109,7 +2110,7 @@ Package pdftex.def Info: pics/3-1.pdf used on input line 11.
 
 
 
- <./pics/3-1.pdf>] [10] <pics/3-2.pdf, id=530, 416.55624pt x 254.9525pt>
+ <./pics/3-1.pdf>] [10] <pics/3-2.pdf, id=528, 416.55624pt x 254.9525pt>
 File: pics/3-2.pdf Graphic file (type pdf)
 
 <use pics/3-2.pdf>
@@ -2131,7 +2132,7 @@ C70/rm/m/n/12.05/4e
 .05/ff 	||\C70/rm/m/n/12.05/30 ^^A|
  []
 
-[12] [13] <pics/3-5.pdf, id=560, 392.46625pt x 207.77625pt>
+[12] [13] <pics/3-5.pdf, id=558, 392.46625pt x 207.77625pt>
 File: pics/3-5.pdf Graphic file (type pdf)
  <use pics/3-5.pdf>
 Package pdftex.def Info: pics/3-5.pdf used on input line 69.
@@ -2142,7 +2143,7 @@ Package pdftex.def Info: pics/3-5.pdf used on input line 69.
 
  (./chapters/ChapterD.tex
 第4章
-<pics/4-3.pdf, id=588, 416.55624pt x 399.4925pt>
+<pics/4-3.pdf, id=586, 416.55624pt x 399.4925pt>
 File: pics/4-3.pdf Graphic file (type pdf)
  <use pics/4-3.pdf>
 Package pdftex.def Info: pics/4-3.pdf used on input line 10.
@@ -2151,13 +2152,13 @@ Package pdftex.def Info: pics/4-3.pdf used on input line 10.
 
 
 
- <./pics/4-3.pdf>] <pics/4-6.pdf, id=608, 416.55624pt x 319.1925pt>
+ <./pics/4-3.pdf>] <pics/4-6.pdf, id=607, 416.55624pt x 319.1925pt>
 File: pics/4-6.pdf Graphic file (type pdf)
  <use pics/4-6.pdf>
 Package pdftex.def Info: pics/4-6.pdf used on input line 39.
 (pdftex.def)             Requested size: 222.78865pt x 170.71652pt.
 
-<pics/4-7.pdf, id=609, 416.55624pt x 320.19624pt>
+<pics/4-7.pdf, id=608, 416.55624pt x 320.19624pt>
 File: pics/4-7.pdf Graphic file (type pdf)
  <use pics/4-7.pdf>
 Package pdftex.def Info: pics/4-7.pdf used on input line 40.
@@ -2166,13 +2167,13 @@ Package pdftex.def Info: pics/4-7.pdf used on input line 40.
 
 LaTeX Warning: `h' float specifier changed to `ht'.
 
-<pics/4-4.pdf, id=610, 416.55624pt x 264.99pt>
+<pics/4-4.pdf, id=609, 416.55624pt x 264.99pt>
 File: pics/4-4.pdf Graphic file (type pdf)
  <use pics/4-4.pdf>
 Package pdftex.def Info: pics/4-4.pdf used on input line 43.
 (pdftex.def)             Requested size: 268.36209pt x 170.71652pt.
 
-<pics/4-8.pdf, id=611, 416.55624pt x 297.11pt>
+<pics/4-8.pdf, id=610, 416.55624pt x 297.11pt>
 File: pics/4-8.pdf Graphic file (type pdf)
  <use pics/4-8.pdf>
 Package pdftex.def Info: pics/4-8.pdf used on input line 44.
@@ -2184,7 +2185,7 @@ LaTeX Warning: `h' float specifier changed to `ht'.
 
 LaTeX Warning: `h' float specifier changed to `ht'.
 
-<pics/4-16.pdf, id=614, 416.55624pt x 139.52126pt>
+<pics/4-16.pdf, id=613, 416.55624pt x 139.52126pt>
 File: pics/4-16.pdf Graphic file (type pdf)
  <use pics/4-16.pdf>
 Package pdftex.def Info: pics/4-16.pdf used on input line 48.
@@ -2197,7 +2198,7 @@ Overfull \hbox (82.91928pt too wide) in paragraph at lines 48--48
 
 LaTeX Warning: `h' float specifier changed to `ht'.
 
-<pics/4-17.pdf, id=615, 416.55624pt x 142.5325pt>
+<pics/4-17.pdf, id=614, 416.55624pt x 142.5325pt>
 File: pics/4-17.pdf Graphic file (type pdf)
  <use pics/4-17.pdf>
 Package pdftex.def Info: pics/4-17.pdf used on input line 49.
@@ -2463,25 +2464,25 @@ Package rerunfilecheck Info: File `thesis.out' has not changed.
 (rerunfilecheck)             Checksum: C637497C0C7097635EEC5D56C659A443;5152.
  ) 
 Here is how much of TeX's memory you used:
- 31978 strings out of 493014
- 527677 string characters out of 6133350
+ 31962 strings out of 493014
+ 527481 string characters out of 6133350
  614714 words of memory out of 5000000
- 34209 multiletter control sequences out of 15000+600000
+ 34193 multiletter control sequences out of 15000+600000
  105282 words of font info for 338 fonts, out of 8000000 for 9000
  1141 hyphenation exceptions out of 8191
- 56i,12n,83p,10565b,682s stack positions out of 5000i,500n,10000p,200000b,80000s
+ 56i,12n,83p,10565b,678s stack positions out of 5000i,500n,10000p,200000b,80000s
 <simhei.ttf><simhei.ttf>{/usr/local/texlive/2016/texmf-dist/fonts/enc/dvips/b
-ase/8r.enc}<simhei.ttf><simhei.ttf><simhei.ttf><simhei.ttf><simhei.ttf><simsun.
-ttc><simsun.ttc><simhei.ttf><simhei.ttf><simhei.ttf><simsun.ttc><simhei.ttf><si
-mhei.ttf><simsun.ttc><simhei.ttf><simhei.ttf><simhei.ttf><simhei.ttf><simhei.tt
-f><simsun.ttc><simsun.ttc><simhei.ttf><simhei.ttf><simsun.ttc><simsun.ttc><sims
-un.ttc><simsun.ttc><simsun.ttc><simsun.ttc><simhei.ttf><simhei.ttf><simhei.ttf>
-<simhei.ttf><simhei.ttf><simhei.ttf><simhei.ttf><simhei.ttf><simhei.ttf><simhei
-.ttf><simsun.ttc><simhei.ttf><simhei.ttf><simhei.ttf><simhei.ttf><simhei.ttf><s
-imhei.ttf><simhei.ttf><simhei.ttf><simhei.ttf><simhei.ttf><simhei.ttf><simsun.t
-tc><simhei.ttf><simhei.ttf><simhei.ttf><simhei.ttf><simhei.ttf><simsun.ttc><sim
-hei.ttf><simhei.ttf><simhei.ttf><simhei.ttf><simsun.ttc><simsun.ttc><simsun.ttc
-><simsun.ttc><simsun.ttc><simsun.ttc><simsun.ttc><simsun.ttc><simsun.ttc><simsu
+ase/8r.enc}<simhei.ttf><simhei.ttf><simsun.ttc><simhei.ttf><simhei.ttf><simhei.
+ttf><simsun.ttc><simsun.ttc><simhei.ttf><simhei.ttf><simhei.ttf><simsun.ttc><si
+mhei.ttf><simhei.ttf><simsun.ttc><simhei.ttf><simhei.ttf><simhei.ttf><simhei.tt
+f><simsun.ttc><simhei.ttf><simsun.ttc><simsun.ttc><simhei.ttf><simhei.ttf><sims
+un.ttc><simsun.ttc><simsun.ttc><simsun.ttc><simsun.ttc><simsun.ttc><simsun.ttc>
+<simsun.ttc><simhei.ttf><simhei.ttf><simhei.ttf><simhei.ttf><simhei.ttf><simhei
+.ttf><simhei.ttf><simhei.ttf><simhei.ttf><simhei.ttf><simhei.ttf><simhei.ttf><s
+imhei.ttf><simhei.ttf><simhei.ttf><simhei.ttf><simhei.ttf><simhei.ttf><simhei.t
+tf><simsun.ttc><simhei.ttf><simhei.ttf><simsun.ttc><simsun.ttc><simhei.ttf><sim
+hei.ttf><simhei.ttf><simhei.ttf><simhei.ttf><simhei.ttf><simhei.ttf><simhei.ttf
+><simhei.ttf><simsun.ttc><simsun.ttc><simsun.ttc><simsun.ttc><simsun.ttc><simsu
 n.ttc><simsun.ttc><simsun.ttc><simsun.ttc><simsun.ttc><simsun.ttc><simsun.ttc><
 simsun.ttc><simsun.ttc><simsun.ttc><simsun.ttc><simsun.ttc><simsun.ttc><simsun.
 ttc><simsun.ttc><simsun.ttc><simsun.ttc><simsun.ttc><simsun.ttc><simsun.ttc><si
@@ -2496,7 +2497,7 @@ y10.pfb></usr/local/texlive/2016/texmf-dist/fonts/type1/public/amsfonts/cm/cmtt
 10.pfb></usr/local/texlive/2016/texmf-dist/fonts/type1/urw/times/utmb8a.pfb></u
 sr/local/texlive/2016/texmf-dist/fonts/type1/urw/times/utmr8a.pfb></usr/local/t
 exlive/2016/texmf-dist/fonts/type1/urw/times/utmr8a.pfb>
-Output written on thesis.pdf (43 pages, 7424435 bytes).
+Output written on thesis.pdf (43 pages, 7419095 bytes).
 PDF statistics:
  1442 PDF objects out of 1728 (max. 8388607)
  1054 compressed objects within 11 object streams
