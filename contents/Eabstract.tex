@@ -18,17 +18,17 @@ global stereo matching algorithm. Through comparative analysis of the advantages
 disadvantages of these two algorithms, this paper will focus on and discuss local stereo 
 matching algorithm. 
 
-Based  on  the  classic  ASW  local  algorithm,  by  analyzing  the  lack  of  ASW 
-algorithms we proposed the improved ASW local algorithm which is based on the LRC 
+Based  on  the  classic SAD local  algorithm,  by  analyzing  the  lack  of  SAD 
+algorithms we proposed the improved SAD local algorithm which is based on the  
 occlusion  detection.  By  matching  the  input  image  from  left  to  right  and  from  right  to 
 left, we  can  get the disparity map of the left image and the disparity map of the right 
-image. By using the LRC occlusion detection algorithm to  deal with the two disparity 
-maps, we use the filling algorithm to fill in the occlusion region. 
+image. By using the occlusion detection algorithm to  deal with the two disparity 
+maps, we use the filling algorithm to fill in the occlusion region.Finally, we used Census convertion 
+and changed SAD local alogrithm to base on the distance of block pixels in order to improve the result of matching.
 
 In order to verify the effectiveness of the algorithm, with the standard test images 
-provided by Middlebury website as input, experimental results will be submitted to the 
-Middlebury  site evaluation system for evaluation. Experimental results  and evaluation 
-results all show that the implementation of algorithm improves the 
+provided by Middlebury website as input, experimental results will be input to the 
+function for evaluation. Experimental results show that the implementation of algorithm improves the 
 accuracy of image matching block  area, while improving the overall matching quality 
 disparity map. 
 \end{Eabstract}
