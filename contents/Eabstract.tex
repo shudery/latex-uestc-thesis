@@ -1,8 +1,8 @@
 % !Mode:: "TeX:UTF-8"
 
-\begin{Eabstract}{Stereo vision}{Local Matching Algorithm}{improve Algorithm}{}{}
-As  an  important  branch  of  computer  vision,  stereo  matching  is  one  of  the  most 
-active stereo vision research theme and has been widely used in the three-dimensional 
+\begin{Eabstract}{Stereo vision}{Local Matching Algorithm}{Algorithm improving}{}{}
+As  one  of  the  most 
+active stereo vision research theme,  stereo  matching  is an important  branch  of  computer  vision  and has been widely used in the three-dimensional 
 scene reconstruction, the field of mobile robotics, object recognition, intelligent control, 
 three-dimensional measurement. 
 
@@ -12,22 +12,14 @@ the disparity map, we can parallax the depth map to obtain further information o
 depth  of  objects  in  the  scene,  which  has  been  applied  to  various  fields.  Stereo  scopic 
 vision  technology  generally  includes  four  steps:  the  image  acquisition,  the  image 
 calibration, the stereo matching and the three-dimensional reconstruction. Among them, 
-the  stereo  matching  is  the  most  critical  and  most  difficult  step.  In  general,  the  stereo 
-matching algorithm is divided into two categories: local stereo matching algorithm and 
-global stereo matching algorithm. Through comparative analysis of the advantages and 
-disadvantages of these two algorithms, this paper will focus on and discuss local stereo 
-matching algorithm. 
+the  stereo  matching  is  the  most  critical  and  most  difficult  step.  
 
 Based  on  the  classic SAD local  algorithm,  by  analyzing  the  lack  of  SAD 
 algorithms we proposed the improved SAD local algorithm which is based on the  
-occlusion  detection.  By  matching  the  input  image  from  left  to  right  and  from  right  to 
-left, we  can  get the disparity map of the left image and the disparity map of the right 
-image. By using the occlusion detection algorithm to  deal with the two disparity 
+occlusion  detection. By using the occlusion detection algorithm to  deal with the two disparity 
 maps, we use the filling algorithm to fill in the occlusion region.Finally, we used Census convertion 
-and changed SAD local alogrithm to base on the distance of block pixels in order to improve the result of matching.
-
-In order to verify the effectiveness of the algorithm, with the standard test images 
-provided by Middlebury website as input, experimental results will be input to the 
+and changed SAD local alogrithm to base on the distance of block pixels in order to improve the result of matching.Using standard test images 
+ as comparsion, experimental results will be input to the 
 function for evaluation. Experimental results show that the implementation of algorithm improves the 
 accuracy of image matching block  area, while improving the overall matching quality 
 disparity map. 

@@ -1,0 +1,89 @@
+\begin{thebibliography}{10}\setlength{\baselineskip}{20bp plus 2bp minus
+  1bp}\setlength{\itemsep}{0bp}\setlength{\parskip}{0pt}
+\providecommand{\natexlab}[1]{#1}
+\providecommand{\url}[1]{\texttt{#1}}
+\expandafter\ifx\csname urlstyle\endcsname\relax
+  \providecommand{\doi}[1]{doi: #1}\else
+  \providecommand{\doi}{doi: \begingroup \urlstyle{rm}\Url}\fi
+
+\ifnum \value{NAT@ctr}=9 \addtolength{\labelwidth}{1em} \fi\ifnum
+  \value{NAT@ctr}=99 \addtolength{\labelwidth}{1em} \fi\ifnum
+  \value{NAT@ctr}=999 \addtolength{\labelwidth}{1em}
+  \fi\bibitem[Marr(1988)]{1-1}
+Marr.
+\newblock Vision Computing Theory.[D].
+\newblock Higher Education Press, 1988
+
+\ifnum \value{NAT@ctr}=9 \addtolength{\labelwidth}{1em} \fi\ifnum
+  \value{NAT@ctr}=99 \addtolength{\labelwidth}{1em} \fi\ifnum
+  \value{NAT@ctr}=999 \addtolength{\labelwidth}{1em}
+  \fi\bibitem[荆鑫(2013)]{A-1}
+荆鑫.
+\newblock 计算机视觉中双目立体匹配技术的研究[D].
+\newblock 南京理工大学, 2013
+
+\ifnum \value{NAT@ctr}=9 \addtolength{\labelwidth}{1em} \fi\ifnum
+  \value{NAT@ctr}=99 \addtolength{\labelwidth}{1em} \fi\ifnum
+  \value{NAT@ctr}=999 \addtolength{\labelwidth}{1em}
+  \fi\bibitem[胡汉平(2014)]{A-2}
+胡汉平.
+\newblock 双目立体测距关键技术研究[D].
+\newblock 中国科学院, 2014
+
+\ifnum \value{NAT@ctr}=9 \addtolength{\labelwidth}{1em} \fi\ifnum
+  \value{NAT@ctr}=99 \addtolength{\labelwidth}{1em} \fi\ifnum
+  \value{NAT@ctr}=999 \addtolength{\labelwidth}{1em}
+  \fi\bibitem[马源(2015)]{A-3}
+马源.
+\newblock 基于双目立体视觉的深度感知技术研究[D].
+\newblock 北京理工大学, 2015
+
+\ifnum \value{NAT@ctr}=9 \addtolength{\labelwidth}{1em} \fi\ifnum
+  \value{NAT@ctr}=99 \addtolength{\labelwidth}{1em} \fi\ifnum
+  \value{NAT@ctr}=999 \addtolength{\labelwidth}{1em}
+  \fi\bibitem[Bradski和Kaebler(2009)]{A-4}
+Bradski G, Kaebler A.
+\newblock 学习OpenCV[M].
+\newblock 北京: 清华大学出版社, 2009
+
+\ifnum \value{NAT@ctr}=9 \addtolength{\labelwidth}{1em} \fi\ifnum
+  \value{NAT@ctr}=99 \addtolength{\labelwidth}{1em} \fi\ifnum
+  \value{NAT@ctr}=999 \addtolength{\labelwidth}{1em}
+  \fi\bibitem[刘波译(2014)]{A-5}
+刘波译.
+\newblock 深入理解OpenCV——实用计算机视觉项目解析[M].
+\newblock 北京: 机械工业出版社, 2014
+
+\ifnum \value{NAT@ctr}=9 \addtolength{\labelwidth}{1em} \fi\ifnum
+  \value{NAT@ctr}=99 \addtolength{\labelwidth}{1em} \fi\ifnum
+  \value{NAT@ctr}=999 \addtolength{\labelwidth}{1em}
+  \fi\bibitem[Richard和Szeliski(2012)]{A-8}
+Richard, Szeliski.
+\newblock 计算机视觉-算法与应用[M].
+\newblock 北京: 清华大学出版社, 2012
+
+\ifnum \value{NAT@ctr}=9 \addtolength{\labelwidth}{1em} \fi\ifnum
+  \value{NAT@ctr}=99 \addtolength{\labelwidth}{1em} \fi\ifnum
+  \value{NAT@ctr}=999 \addtolength{\labelwidth}{1em}
+  \fi\bibitem[许雯(2014)]{A-6}
+许雯.
+\newblock 立体视觉中局部立体匹配算法研究[D].
+\newblock 西安电子科技大学, 2014
+
+\ifnum \value{NAT@ctr}=9 \addtolength{\labelwidth}{1em} \fi\ifnum
+  \value{NAT@ctr}=99 \addtolength{\labelwidth}{1em} \fi\ifnum
+  \value{NAT@ctr}=999 \addtolength{\labelwidth}{1em} \fi\bibitem[RedMud()]{A-7}
+RedMud.
+\newblock 立体匹配十大概念综述-立体匹配算法介绍[EB/OL].
+\newblock \url{https://zhuanlan.zhihu.com/p/20703577}, 2016
+
+\ifnum \value{NAT@ctr}=9 \addtolength{\labelwidth}{1em} \fi\ifnum
+  \value{NAT@ctr}=99 \addtolength{\labelwidth}{1em} \fi\ifnum
+  \value{NAT@ctr}=999 \addtolength{\labelwidth}{1em} \fi\bibitem[Hoa et
+  al.(2014)]{A-9}
+D.~K. Hoa, L.~Dung, N.~T. Dzung.
+\newblock Efficient determination of disparity map from stereo images with
+  modified Sum of Absolute Differences (SAD) algorithm[C].
+\newblock Hanoi University of Science and Technology, Vietnam, 2014
+
+\end{thebibliography}

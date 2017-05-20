@@ -37,18 +37,16 @@
 采用Matlab平台对双目相机进行标定，标定方法采用张正友标定法。打印一张9x7的棋盘格，每个方格的边长为25mm，铺平贴到硬纸板上以便拍摄。尽量让棋盘格在左右图像中占30\%以上的比例，以便在标定过程中更加准确检测到角点，减少标定误差。用双目摄像机从不同角度、距离拍摄，得到多组图片。采集图片如图\ref{4-6}和图\ref{4-7}所示:
 
 \begin{pics}[h]{采集的图像}{picbc}
-\addsubpic{左图像}{keepaspectratio=false,height=2cm,width=7cm}{4-6}
-\addsubpic{右图像}{keepaspectratio=false,height=2cm,width=7cm}{4-7}
+\addsubpic{左图像}{keepaspectratio=false,height=5cm,width=7cm}{4-6}
+\addsubpic{右图像}{keepaspectratio=false,height=5cm,width=7cm}{4-7}
 \end{pics}
 将图像提取焦点后标定，得出的标定结果如图\ref{4-4}和\ref{4-8}所示。
-\begin{pics}[h]{标定结果}{picbc}
-\addsubpic{标定结果}{keepaspectratio=false,height=2cm,width=9cm}{4-4}
-\addsubpic{内外参数记录表}{keepaspectratio=false,height=2cm,width=7cm}{4-8}
-\end{pics}
+\pic[h]{标定结果}{keepaspectratio=false,height=8cm,width=12cm}{4-4}
+\pic[h]{内外参数记录表}{keepaspectratio=false,height=6cm,width=11cm}{4-8}
 
 通过标定参数对采集图像进行纠正，可以使图像在垂直方向的坐标相同，这样视差就转变为计算左右视图水平坐标的距离，方便了视差的计算。从图\ref{4-16}和图\ref{4-17}可以看到纠正图像后，图像的棋盘格子边缘与水平直线重合。
-\pic[h]{标定前左右图像位置}{keepaspectratio=false,height=2cm,width=12cm}{4-16}
-\pic[h]{标定前后左右图像位置}{keepaspectratio=false,height=2cm,width=12cm}{4-17}
+\pic[h]{标定前左右图像位置}{keepaspectratio=false,height=4cm,width=12cm}{4-16}
+\pic[h]{标定前后左右图像位置}{keepaspectratio=false,height=4cm,width=12cm}{4-17}
 
 \section{实验过程匹配效果的评估}
 
@@ -73,7 +71,7 @@ Daniel 等人不仅给出了立体匹配算法的度量标准，更给出了用�
 
 除了纠正过的标准左右图像，还有图像的遮挡区域，视差图等，以网站提供的Tsukuba图为例，如图\ref{4-2}所示，起图像信息都是经过严格匹配的结果。有了这些标准图像，我们就可以利用评估函数对匹配方法的准确性进行测试。
 
-\pic[h]{Tsukuba图像信息}{keepaspectratio=false,height=2cm,width=14cm}{4-2}
+\pic[h]{Tsukuba图像信息}{keepaspectratio=false,height=8.5cm,width=14cm}{4-2}
 
 算法执行速度的评估则直接根据C语言头函数time.h库自带的时间打点记录函数来计算算法的执行时间。
 
@@ -88,10 +86,10 @@ Daniel 等人不仅给出了立体匹配算法的度量标准，更给出了用�
 SAD(x,y,d)=\sum_{(x,y)\in N_{L}} |\ I_{1}(x,y)-I_{2}(x,y+d) \ |
 \end{equation}
 
-其中，$N_{L}$是以参考点 $(x,y)$ 为中心的参考窗口，RN是以目标点$(x,y+d)$为中心的目标窗口，$d$为视差，$I_{1}$为参考图像，$I_{2}$为目标图像。该算法分别以参考点$(x,y)$和目标点$(x,y+d)$为中心，在参考窗口$L_{N}$和目标窗口$R_{N}$中统计窗口内对应位置像素的灰度值和的差，以此作为参考窗口$L_{N}$和目标窗口$R_{N}$的误差。
+其中，$N_{L}$是以参考点 $(x,y)$ 为中心的参考窗口，$R_{N}$是以目标点$(x,y+d)$为中心的目标窗口，$d$为视差，$I_{1}$为参考图像，$I_{2}$为目标图像。该算法分别以参考点$(x,y)$和目标点$(x,y+d)$为中心，在参考窗口$L_{N}$和目标窗口$R_{N}$中统计窗口内对应位置像素的灰度值和的差，以此作为参考窗口$L_{N}$和目标窗口$R_{N}$的误差。
 在给定的视差取值范围内遍历所有的目标窗口，使误差SAD取值最小的目标窗口对应的视差值d即为参考点$(x,y)$的视差值。SSD算法只是更改相似性函数的计算方法，将绝对值误差替换为平方值误差，其他方法步骤相同。
 
-\pic[h]{SAD算法过程示意图}{keepaspectratio=false,height=2cm,width=10cm}{3-3}
+\pic[h]{SAD算法过程示意图}{keepaspectratio=false,height=6cm,width=10cm}{3-3}
 
 SAD算法基本流程：
 
@@ -109,7 +107,7 @@ SAD算法基本流程：
 
 用OpenCV函数读入标准图像信息，利用C语言编写代码实现上述逻辑过程，以Tsukuba标准图，构造窗口大小取8为例，输出视差图像如图\ref{4-10}所示。
 
-\pic[h]{Tsukuba经过实验算法匹配输出视差图}{keepaspectratio=false,height=2cm,width=14cm}{4-10}
+\pic[h]{Tsukuba经过实验算法匹配输出视差图}{keepaspectratio=false,height=8.5cm,width=14cm}{4-10}
 
 \section{匹配窗口的选择}
 
@@ -119,9 +117,11 @@ SAD算法基本流程：
 信息用于相似度测量，为了采集更多参考信息，支持窗口需要增大，但是随着支持窗口
 增大，支持窗口内的闭塞区域信息也会增多，闭塞区域的信息是无效信息甚至是干扰信
 息，参考信息可靠性降低将直接影响匹配准确率。
-\pic[h]{各标准图窗口大小与误匹配率的关系表（单位：\%）}{keepaspectratio=false,height=2cm,width=10cm}{4-12}
-\pic[h]{各标准图窗口大小与匹配速度的关系表（单位：s）}{keepaspectratio=false,height=2cm,width=10cm}{4-13}
-利用实现的评估函数算法和标准视差图，我们可以通过输入不同的窗口大小值，得出误匹配率，多次试验可以得出其关系如表\ref{4-12}所示，匹配算法运行时间如表\ref{4-13}所示。
+\pic[h]{各标准图窗口大小与误匹配率的关系表（单位：\%）}{keepaspectratio=false,height=5cm,width=10cm}{4-12}
+\pic[h]{各标准图窗口大小与匹配速度的关系表（单位：s）}{keepaspectratio=false,height=5cm,width=10cm}{4-13}
+
+利用实现的评估函数算法和标准视差图，我们可以通过输入不同的窗口大小值，得出误匹配率，多次试验可以得出其关系如表\ref{4-12}
+所示，匹配算法运行时间如表\ref{4-13}所示。
 
 
 在窗口大小为N=8时匹配误匹配率较低，当N大于8之后误匹配率上升或者变换不大，而且算法运行时间开始大幅增加，所以可以得出标准图的整体最佳匹配窗口大小为8
@@ -132,7 +132,7 @@ SAD算法基本流程：
 
 \subsection{增加Census变换}
 
-\pic[h]{Census变换示意图1}{keepaspectratio=false,height=2cm,width=14cm}{3-6}
+\pic[h]{Census变换示意图1}{keepaspectratio=false,height=3cm,width=14cm}{3-6}
 
 由于SAD算法的相似性测度函数采用窗口对应点的灰度值直接计算，没有考虑窗口各点与中心点的相关性，因此受窗口大小和环境影响较大。比如左右图像曝光时间或光照条件不同导致的左右图像对应区域灰度值差距大。可以采用Census变换方法，先将窗口内各点的灰度值转换为与窗口中心相关的数值，将绝对的灰度条件，转换为相对灰度条件，以此解决图像的灰度信息不同步的问题，提高精确度。
 
@@ -147,7 +147,7 @@ Census(q)=\left\{\begin{matrix}
 \end{equation}
 其中，q 为非中心像素，q 为中心像素。 $I(q)$为非中心像素的灰度值，$ I(p)$为
 中心像素的灰度值。如图 \ref{3-7} 所示，$N_{L}$ 和 $CensusN_{L}$ 分别为变换前后的窗口。
-\pic[h]{Census变换示意图2}{keepaspectratio=false,height=2cm,width=12cm}{3-7}
+\pic[h]{Census变换示意图2}{keepaspectratio=false,height=10cm,width=12cm}{3-7}
 
 在分别对参考窗口 $L_{N}$ 和目标窗口 $R_{N}$ 进行 Census 变换之后，就得到了两个仅由 0 和 1 组成的 01 串 $L_{01N}$ 和 $R_{01N}$ ，如图 3.6 所示。由于汉明距离表示两个码串之间对应位置不同码字的位的个数，这样，就可以通过比较 $L_{01N}$ 和 $R_{01N}$ 之间的汉明距离来度量参考窗口 $L_{N}$ 和目标窗口 $R_{N}$ 之间的相似度。易知，$L_{01N}$ 和 $R_{01N}$ 之间的汉明距离为13。同理，在视差值的取值范围内移动目标窗口，分别计算对应的汉明距离，最后再用赢者通吃算法（WTA）筛选出误差值即可。
 
@@ -157,13 +157,13 @@ Census(q)=\left\{\begin{matrix}
 
 立体匹配过程中存在遮挡现象。由于摄像机平移的特点，在相机平移过程中必然会出现前景物体将后景物体边缘遮挡的情形，此时左图像的点在右图中无法找到准确的匹配点，这部分区域就是遮挡区域。
 
-\pic[h]{遮挡区域示意图}{keepaspectratio=false,height=2cm,width=15cm}{3-8}
+\pic[h]{遮挡区域示意图}{keepaspectratio=false,height=5cm,width=15cm}{3-8}
 
 添加遮挡区域检测，以提高图片遮挡区域的匹配准确率。可以通过对换参考图像和目标图像，进行双向匹配，比较两次输入得到的视差图，视差值大于一定阈值的区域就是遮挡区域。
 
 以左图为参考图像，右图为目标图像，即在右图中寻找左图中每一个像素对应的像素点，从而获取左图对应的视差图。但是，这样单向匹配的结果就是，在左图中，有些像素得到了正确的匹配，有些像素得到了错误的匹配。 如果匹配的结果是正确无误的，那么不管以左图和右图中的哪一副为参考图像，另外一副为目标图像，那么匹配的结果都应该是一致的，而在图像的遮挡区域，肯定得不到正确的匹配，因此两次匹配的结果应该是不一致的。以此改进算法，添加遮挡检测，并在遮挡区域选择视差较小的背景。以Tsukuba标准图为例，如图\ref{4-14}所示。
 
-\pic[h]{遮挡检测前后匹配效果对比}{keepaspectratio=false,height=2cm,width=15cm}{4-14}
+\pic[h]{遮挡检测前后匹配效果对比}{keepaspectratio=false,height=5cm,width=15cm}{4-14}
 
 在图\ref{4-14}中可以看到，没有添加遮挡检测的视差图噪点较多，且大部分落在了遮挡区域内，通过检测遮挡区域，降低了在该区域内误匹配的概率，得到了匹配效果较好的视差图。
 
@@ -173,7 +173,7 @@ Census(q)=\left\{\begin{matrix}
 
 在双目立体视觉中，图像对中的遮挡等闭塞、视差不连续情况是普遍存在的,而且这种存在的可能性随支持窗口的增大而增大，邻域点离中心点越远匹配可靠性和参考价值越小，这种特性也是符合人眼视觉特性的。
 
-\pic[h]{人类双眼关注度与关注中心的相关性示意图}{keepaspectratio=false,height=2cm}{3-9}
+\pic[h]{人类双眼关注度与关注中心的相关性示意图}{keepaspectratio=false,height=5cm}{3-9}
 
 根据邻域点至窗口中心的几何距离分配匹配权重的模型,几何距离权重$f_{w}$的表达式如公式: 
 \begin{equation}
@@ -184,9 +184,12 @@ f_{w}(i,j) = a\omega ^{f^{s}}
 
 由于距离窗口中心点距离越远其提供的信息参考价值越小，通过基于几何距离自适应权重，来解决窗口内像素点贡献无差异的问题，从而提高低纹理和深度非连续区域的匹配准确性。
 
-在SAD算法公式的基础上，每一个窗口匹配像素点在计算灰度值差值后，乘以几何距离权重保存，最后将窗口所有像素点统计相加，得到最佳匹配点，输出视差图。以Tsukuba为例，经过几何距离自适应权重之后的匹配效果如图\ref{4-15}所示，误匹配率从原来的8.39\%下降到了6.77\%。
+在SAD算法公式的基础上，每一个窗口匹配像素点在计算灰度值差值后，乘以几何距离权重保存，最后将窗口所有像素点统计相加，得到最佳匹配点，输出视差图。以Tsukuba为例，经过几何距离自适应权重之后的匹配效果如图\ref{4-15}所示，误匹配率从原来的8.39\%下降到了6.77\%，具体如表\ref{4-99}所示，其他图例的误匹配都有一定程度的降低，由此可以证明该算法在普遍环境下能够可靠稳定地降低误匹配率，在图像深度不连续区域匹配效果更加准确。
 
-\pic[h]{几何距离自适应权重优化效果对比}{keepaspectratio=false,height=2cm}{4-15}
+\pic[h]{优化前后误匹配率对比表哦}{keepaspectratio=false,height=5cm}{4-99}
+
+各个标准图例匹配效果如图\ref{4-95}所示。
+\pic[h]{算法优化前后匹配效果对比}{keepaspectratio=false,height=8cm,width=14cm}{4-95}
 
 \section{实验结论及全文最后总结}
 
