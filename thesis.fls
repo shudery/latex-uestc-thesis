@@ -649,6 +649,7 @@ INPUT /usr/local/texlive/2016/texmf-dist/fonts/tfm/zhmetrics/unisong/unisong8d.t
 INPUT /usr/local/texlive/2016/texmf-dist/fonts/tfm/zhmetrics/unihei/unihei64.tfm
 INPUT /usr/local/texlive/2016/texmf-dist/fonts/tfm/zhmetrics/unihei/unihei50.tfm
 INPUT /usr/local/texlive/2016/texmf-dist/fonts/tfm/zhmetrics/unihei/unihei68.tfm
+INPUT /usr/local/texlive/2016/texmf-dist/fonts/tfm/zhmetrics/unisong/unisong9e.tfm
 OUTPUT chapters/ChapterC.aux
 INPUT chapters/ChapterC.tex
 INPUT chapters/ChapterC.tex
@@ -779,14 +780,12 @@ INPUT thesis.bbl
 INPUT thesis.bbl
 INPUT /usr/local/texlive/2016/texmf-dist/fonts/tfm/zhmetrics/unihei/unihei80.tfm
 INPUT /usr/local/texlive/2016/texmf-dist/fonts/tfm/zhmetrics/unihei/unihei73.tfm
-INPUT /usr/local/texlive/2016/texmf-dist/fonts/tfm/zhmetrics/unisong/unisong94.tfm
-INPUT /usr/local/texlive/2016/texmf-dist/fonts/tfm/zhmetrics/unisong/unisong78.tfm
 INPUT /usr/local/texlive/2016/texmf-dist/fonts/tfm/zhmetrics/unisong/unisong80.tfm
 INPUT /usr/local/texlive/2016/texmf-dist/fonts/tfm/zhmetrics/unisong/unisong95.tfm
+INPUT /usr/local/texlive/2016/texmf-dist/fonts/tfm/zhmetrics/unisong/unisong78.tfm
+INPUT /usr/local/texlive/2016/texmf-dist/fonts/tfm/zhmetrics/unisong/unisong94.tfm
+INPUT /usr/local/texlive/2016/texmf-dist/fonts/tfm/zhmetrics/unisong/unisong82.tfm
 INPUT /usr/local/texlive/2016/texmf-dist/fonts/tfm/zhmetrics/unisong/unisong6e.tfm
-INPUT /usr/local/texlive/2016/texmf-dist/fonts/tfm/zhmetrics/unisong/unisong72.tfm
-INPUT /usr/local/texlive/2016/texmf-dist/fonts/tfm/zhmetrics/unisong/unisong20.tfm
-INPUT /usr/local/texlive/2016/texmf-dist/fonts/tfm/zhmetrics/unisong/unisong98.tfm
 INPUT /usr/local/texlive/2016/texmf-dist/fonts/tfm/zhmetrics/unisong/unisong69.tfm
 INPUT /usr/local/texlive/2016/texmf-dist/fonts/tfm/public/cm/cmtt10.tfm
 INPUT /usr/local/texlive/2016/texmf-dist/tex/latex/cmap/ot1tt.cmap
@@ -819,6 +818,9 @@ INPUT /usr/local/texlive/2016/texmf-dist/fonts/tfm/public/amsfonts/cmextra/cmmib
 INPUT /usr/local/texlive/2016/texmf-dist/fonts/tfm/public/cm/cmbsy10.tfm
 INPUT /usr/local/texlive/2016/texmf-dist/fonts/tfm/public/amsfonts/cmextra/cmbsy7.tfm
 INPUT /usr/local/texlive/2016/texmf-dist/fonts/tfm/public/amsfonts/cmextra/cmbsy5.tfm
+INPUT /usr/local/texlive/2016/texmf-dist/fonts/tfm/zhmetrics/unisong/unisong72.tfm
+INPUT /usr/local/texlive/2016/texmf-dist/fonts/tfm/zhmetrics/unisong/unisong20.tfm
+INPUT /usr/local/texlive/2016/texmf-dist/fonts/tfm/zhmetrics/unisong/unisong98.tfm
 INPUT /usr/local/texlive/2016/texmf-dist/fonts/tfm/zhmetrics/unihei/unihei81.tfm
 INPUT /usr/local/texlive/2016/texmf-dist/fonts/tfm/zhmetrics/unihei/unihei8c.tfm
 INPUT contents/acknowledgements.tex
@@ -877,6 +879,7 @@ INPUT simsun.ttc
 INPUT simhei.ttf
 INPUT simhei.ttf
 INPUT simhei.ttf
+INPUT simsun.ttc
 INPUT simhei.ttf
 INPUT simhei.ttf
 INPUT simhei.ttf

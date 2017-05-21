@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.14159265-2.6-1.40.17 (TeX Live 2016) (preloaded format=pdflatex 2016.10.28)  20 MAY 2017 20:58
+This is pdfTeX, Version 3.14159265-2.6-1.40.17 (TeX Live 2016) (preloaded format=pdflatex 2016.10.28)  21 MAY 2017 16:00
 entering extended mode
  restricted \write18 enabled.
  %&-line parsing enabled.
@@ -2072,110 +2072,116 @@ LaTeX Font Info:    Font shape `OT1/ptm/bx/n' in size <14.05249> not available
 
  (./chapters/ChapterB.tex
 Á¨¨2Á´†
-<pics/2-3.pdf, id=449, 416.55624pt x 124.465pt>
+<pics/2-3.pdf, id=450, 416.55624pt x 124.465pt>
 File: pics/2-3.pdf Graphic file (type pdf)
  <use pics/2-3.pdf>
 Package pdftex.def Info: pics/2-3.pdf used on input line 12.
 (pdftex.def)             Requested size: 398.33858pt x 119.02733pt.
+
+<pics/2-1.pdf, id=451, 326.21875pt x 176.66pt>
+File: pics/2-1.pdf Graphic file (type pdf)
+ <use pics/2-1.pdf>
+Package pdftex.def Info: pics/2-1.pdf used on input line 15.
+(pdftex.def)             Requested size: 312.9803pt x 169.5054pt.
  [6
 
 
 
- <./pics/2-3.pdf>] <pics/2-1.pdf, id=468, 311.1625pt x 180.675pt>
-File: pics/2-1.pdf Graphic file (type pdf)
- <use pics/2-1.pdf>
-Package pdftex.def Info: pics/2-1.pdf used on input line 23.
-(pdftex.def)             Requested size: 312.9803pt x 181.73318pt.
-
-<pics/2-2.pdf, id=470, 354.32375pt x 310.15875pt>
+ <./pics/2-3.pdf>] [7 <./pics/2-1.pdf>] <pics/2-2.pdf, id=495, 354.32375pt x 31
+0.15875pt>
 File: pics/2-2.pdf Graphic file (type pdf)
- <use pics/2-2.pdf>
-Package pdftex.def Info: pics/2-2.pdf used on input line 32.
-(pdftex.def)             Requested size: 195.02463pt x 170.71652pt.
- [7 <./pics/2-1.pdf>] <pics/2-4.pdf, id=492, 416.55624pt x 230.8625pt>
+
+<use pics/2-2.pdf>
+Package pdftex.def Info: pics/2-2.pdf used on input line 25.
+(pdftex.def)             Requested size: 227.52873pt x 199.16928pt.
+ <pics/2-4.pdf, id=496, 416.55624pt x 230.8625pt>
 File: pics/2-4.pdf Graphic file (type pdf)
- <use pics/2-4.pdf>
-Package pdftex.def Info: pics/2-4.pdf used on input line 46.
+
+<use pics/2-4.pdf>
+Package pdftex.def Info: pics/2-4.pdf used on input line 31.
 (pdftex.def)             Requested size: 308.03069pt x 170.71652pt.
+ [8 <./pics/2-2.pdf> <./pics/2-4.pdf>] [9] [10]) [11]
+\openout2 = `chapters/ChapterC.aux'.
+
+
+(./chapters/ChapterC.tex
+Á¨¨3Á´†
+<pics/3-1.pdf, id=558, 416.55624pt x 57.21375pt>
+File: pics/3-1.pdf Graphic file (type pdf)
+ <use pics/3-1.pdf>
+Package pdftex.def Info: pics/3-1.pdf used on input line 12.
+(pdftex.def)             Requested size: 1243.16335pt x 170.71652pt.
+
+Overfull \hbox (816.372pt too wide) in paragraph at lines 12--12
+ [][] 
+ []
 
 
 LaTeX Warning: `h' float specifier changed to `ht'.
 
-[8 <./pics/2-2.pdf>] [9 <./pics/2-4.pdf>]) [10]
-\openout2 = `chapters/ChapterC.aux'.
-
- (./chapters/ChapterC.tex
-Á¨¨3Á´†
-<pics/3-1.pdf, id=543, 202.7575pt x 262.9825pt>
-File: pics/3-1.pdf Graphic file (type pdf)
- <use pics/3-1.pdf>
-Package pdftex.def Info: pics/3-1.pdf used on input line 11.
-(pdftex.def)             Requested size: 131.62683pt x 170.71652pt.
- [11
+[12
 
 
 
- <./pics/3-1.pdf>] [12] <pics/3-2.pdf, id=569, 416.55624pt x 254.9525pt>
+] [13 <./pics/3-1.pdf>] <pics/3-2.pdf, id=586, 415.5525pt x 248.93pt>
 File: pics/3-2.pdf Graphic file (type pdf)
 
 <use pics/3-2.pdf>
-Package pdftex.def Info: pics/3-2.pdf used on input line 31.
-(pdftex.def)             Requested size: 398.33858pt x 243.81404pt.
- [13 <./pics/3-2.pdf>]
-Overfull \hbox (27.22798pt too wide) in paragraph at lines 43--44
-\C70/rm/m/n/12.05/88 L|\C70/rm/m/n/12.05/ff ^^L| \C70/rm/m/n/12.05/8f — \C70/rm
-/m/n/12.05/5e t \C70/rm/m/n/12.05/67 e \C70/rm/m/n/12.05/96 è \C70/rm/m/n/12.05
-/77 @ \C70/rm/m/n/12.05/8b ° \C70/rm/m/n/12.05/7b ó \C70/rm/m/n/12.05/67 : \C70
-/rm/m/n/12.05/8b ° \C70/rm/m/n/12.05/7b ó \C70/rm/m/n/12.05/80 ˝ \C70/rm/m/n/12
-.05/52 õ \C70/rm/m/n/12.05/76 Ñ \C70/rm/m/n/12.05/59 ' \C70/rm/m/n/12.05/5e E \
-C70/rm/m/n/12.05/4e 
- \C70/rm/m/n/12.05/53 G \C70/rm/m/n/12.05/67 	 \C70/rm/m/n/12.05/62 @ \C70/rm/m
-/n/12.05/65 9 \C70/rm/m/n/12.05/55 Ñ|\C70/rm/m/n/12.05/30 ^^B| \C70/rm/m/n/12.0
-5/4e ; \C70/rm/m/n/12.05/89 Å \C70/rm/m/n/12.05/76 Ñ \C70/rm/m/n/12.05/7b ó \C7
-0/rm/m/n/12.05/6c ’ \C70/rm/m/n/12.05/67 	 \C70/rm/m/n/12.05/56 ˛ \C70/rm/m/n/1
-2.05/52 r |\C70/rm/m/n/12.05/ff ^^H|\OT1/ptm/m/n/12.05 graphcuts|\C70/rm/m/n/12
-.05/ff 	||\C70/rm/m/n/12.05/30 ^^A|
+Package pdftex.def Info: pics/3-2.pdf used on input line 32.
+(pdftex.def)             Requested size: 398.33858pt x 238.62822pt.
+ [14 <./pics/3-2.pdf>] [15]
+Overfull \hbox (5.93597pt too wide) in paragraph at lines 57--58
+\C70/rm/m/n/12.05/88 h \C70/rm/m/n/12.05/76 Ñ \C70/rm/m/n/12.05/57 ˙ \C70/rm/m/
+n/12.05/4e é \C70/rm/m/n/12.05/56 ˛ \C70/rm/m/n/12.05/50 œ \C70/rm/m/n/12.05/53
+ ÿ \C70/rm/m/n/12.05/63 b \C70/rm/m/n/12.05/76 Ñ \C70/rm/m/n/12.05/5c @ \C70/rm
+/m/n/12.05/90 Ë \C70/rm/m/n/12.05/53 9 \C70/rm/m/n/12.05/91 M \C70/rm/m/n/12.05
+/7b ó \C70/rm/m/n/12.05/6c ’|\C70/rm/m/n/12.05/ff ^^L| \C70/rm/m/n/12.05/8f ÿ \
+C70/rm/m/n/12.05/67 	 \C70/rm/m/n/12.05/57 ˙ \C70/rm/m/n/12.05/4e é \C70/rm/m/n
+/12.05/50 Ö \C70/rm/m/n/12.05/7a À \C70/rm/m/n/12.05/53 ˆ ÿ \C70/rm/m/n/12.05/6
+3 b \C70/rm/m/n/12.05/76 Ñ \C70/rm/m/n/12.05/5c @ \C70/rm/m/n/12.05/90 Ë \C70/r
+m/m/n/12.05/7b ó \C70/rm/m/n/12.05/6c ’|\C70/rm/m/n/12.05/30 ^^A| \C70/rm/m/n/1
+2.05/57 ˙ \C70/rm/m/n/12.05/4e é\OT1/ptm/m/n/12.05 Rank\C70/rm/m/n/12.05/53 ÿ
  []
 
-[14] [15] <pics/3-5.pdf, id=599, 392.46625pt x 207.77625pt>
+[16] [17] <pics/3-5.pdf, id=623, 338.26375pt x 173.64874pt>
 File: pics/3-5.pdf Graphic file (type pdf)
  <use pics/3-5.pdf>
-Package pdftex.def Info: pics/3-5.pdf used on input line 69.
-(pdftex.def)             Requested size: 322.47714pt x 170.71652pt.
+Package pdftex.def Info: pics/3-5.pdf used on input line 82.
+(pdftex.def)             Requested size: 332.56462pt x 170.71652pt.
 
-[16 <./pics/3-5.pdf>]) [17]
+[18 <./pics/3-5.pdf>]) [19]
 \openout2 = `chapters/ChapterD.aux'.
 
  (./chapters/ChapterD.tex
 Á¨¨4Á´†
-<pics/4-3.pdf, id=627, 416.55624pt x 399.4925pt>
+<pics/4-3.pdf, id=651, 416.55624pt x 399.4925pt>
 File: pics/4-3.pdf Graphic file (type pdf)
  <use pics/4-3.pdf>
 Package pdftex.def Info: pics/4-3.pdf used on input line 10.
 (pdftex.def)             Requested size: 178.00972pt x 170.71652pt.
- [18
+ [20
 
 
 
- <./pics/4-3.pdf>] <pics/4-6.pdf, id=649, 416.55624pt x 319.1925pt>
+ <./pics/4-3.pdf>] <pics/4-6.pdf, id=672, 416.55624pt x 319.1925pt>
 File: pics/4-6.pdf Graphic file (type pdf)
  <use pics/4-6.pdf>
 Package pdftex.def Info: pics/4-6.pdf used on input line 40.
 (pdftex.def)             Requested size: 199.16927pt x 142.26181pt.
 
-<pics/4-7.pdf, id=650, 416.55624pt x 320.19624pt>
+<pics/4-7.pdf, id=673, 416.55624pt x 320.19624pt>
 File: pics/4-7.pdf Graphic file (type pdf)
  <use pics/4-7.pdf>
 Package pdftex.def Info: pics/4-7.pdf used on input line 41.
 (pdftex.def)             Requested size: 199.16927pt x 142.26457pt.
 
-<pics/4-4.pdf, id=653, 416.55624pt x 264.99pt>
+<pics/4-4.pdf, id=676, 416.55624pt x 264.99pt>
 File: pics/4-4.pdf Graphic file (type pdf)
  <use pics/4-4.pdf>
 Package pdftex.def Info: pics/4-4.pdf used on input line 44.
 (pdftex.def)             Requested size: 341.4512pt x 227.62413pt.
 
-<pics/4-8.pdf, id=654, 416.55624pt x 297.11pt>
+<pics/4-8.pdf, id=677, 416.55624pt x 297.11pt>
 File: pics/4-8.pdf Graphic file (type pdf)
  <use pics/4-8.pdf>
 Package pdftex.def Info: pics/4-8.pdf used on input line 45.
@@ -2187,25 +2193,25 @@ LaTeX Warning: `h' float specifier changed to `ht'.
 
 LaTeX Warning: `h' float specifier changed to `ht'.
 
-<pics/4-16.pdf, id=657, 416.55624pt x 139.52126pt>
+<pics/4-16.pdf, id=680, 416.55624pt x 139.52126pt>
 File: pics/4-16.pdf Graphic file (type pdf)
  <use pics/4-16.pdf>
 Package pdftex.def Info: pics/4-16.pdf used on input line 48.
 (pdftex.def)             Requested size: 341.4512pt x 113.8142pt.
 
-<pics/4-17.pdf, id=658, 416.55624pt x 142.5325pt>
+<pics/4-17.pdf, id=681, 416.55624pt x 142.5325pt>
 File: pics/4-17.pdf Graphic file (type pdf)
  <use pics/4-17.pdf>
 Package pdftex.def Info: pics/4-17.pdf used on input line 49.
 (pdftex.def)             Requested size: 341.4512pt x 113.81082pt.
- [19 <./pics/4-6.pdf> <./pics/4-7.pdf>]
+ [21 <./pics/4-6.pdf> <./pics/4-7.pdf>]
 
 LaTeX Warning: `h' float specifier changed to `ht'.
 
 
 LaTeX Warning: `h' float specifier changed to `ht'.
 
-[20 <./pics/4-4.pdf>] <pics/4-5.pdf, id=718, 416.55624pt x 184.69pt>
+[22 <./pics/4-4.pdf>] <pics/4-5.pdf, id=742, 416.55624pt x 184.69pt>
 File: pics/4-5.pdf Graphic file (type pdf)
 
 <use pics/4-5.pdf>
@@ -2215,7 +2221,7 @@ Package pdftex.def Info: pics/4-5.pdf used on input line 70.
 
 LaTeX Warning: `h' float specifier changed to `ht'.
 
-<pics/4-2.pdf, id=720, 416.55624pt x 333.245pt>
+<pics/4-2.pdf, id=744, 416.55624pt x 333.245pt>
 File: pics/4-2.pdf Graphic file (type pdf)
  <use pics/4-2.pdf>
 Package pdftex.def Info: pics/4-2.pdf used on input line 74.
@@ -2224,8 +2230,8 @@ Package pdftex.def Info: pics/4-2.pdf used on input line 74.
 
 LaTeX Warning: `h' float specifier changed to `ht'.
 
-[21 <./pics/4-8.pdf> <./pics/4-16.pdf>]
-<pics/3-4.pdf, id=753, 266.9975pt x 249.93375pt>
+[23 <./pics/4-8.pdf> <./pics/4-16.pdf>]
+<pics/3-4.pdf, id=776, 266.9975pt x 249.93375pt>
 File: pics/3-4.pdf Graphic file (type pdf)
  <use pics/3-4.pdf>
 Package pdftex.def Info: pics/3-4.pdf used on input line 82.
@@ -2244,8 +2250,8 @@ or-re-la-tion,\C70/rm/m/n/12.05/7b Ä \C70/rm/m/n/12.05/79  \OT1/ptm/m/n/12.05
 NCC)\C70/rm/m/n/12.05/7b I|\C70/rm/m/n/12.05/ff ^^L|
  []
 
-[22 <./pics/4-17.pdf> <./pics/4-5.pdf>]
-<pics/3-3.pdf, id=787, 327.2225pt x 235.88126pt>
+[24 <./pics/4-17.pdf> <./pics/4-5.pdf>]
+<pics/3-3.pdf, id=810, 327.2225pt x 235.88126pt>
 File: pics/3-3.pdf Graphic file (type pdf)
  <use pics/3-3.pdf>
 Package pdftex.def Info: pics/3-3.pdf used on input line 92.
@@ -2261,7 +2267,7 @@ File: omsptm.fd
 LaTeX Font Info:    Font shape `OMS/ptm/m/n' in size <12.05> not available
 (Font)              Font shape `OMS/cmsy/m/n' tried instead on input line 96.
 
-<pics/4-10.pdf, id=789, 416.55624pt x 292.09125pt>
+<pics/4-10.pdf, id=812, 416.55624pt x 292.09125pt>
 File: pics/4-10.pdf Graphic file (type pdf)
  <use pics/4-10.pdf>
 Package pdftex.def Info: pics/4-10.pdf used on input line 110.
@@ -2270,42 +2276,42 @@ Package pdftex.def Info: pics/4-10.pdf used on input line 110.
 
 LaTeX Warning: `h' float specifier changed to `ht'.
 
-<pics/4-12.pdf, id=790, 416.55624pt x 284.06125pt>
+<pics/4-12.pdf, id=813, 416.55624pt x 284.06125pt>
 File: pics/4-12.pdf Graphic file (type pdf)
  <use pics/4-12.pdf>
 Package pdftex.def Info: pics/4-12.pdf used on input line 120.
 (pdftex.def)             Requested size: 284.53844pt x 142.26865pt.
 
-<pics/4-13.pdf, id=791, 416.55624pt x 290.08376pt>
+<pics/4-13.pdf, id=814, 416.55624pt x 290.08376pt>
 File: pics/4-13.pdf Graphic file (type pdf)
  <use pics/4-13.pdf>
 Package pdftex.def Info: pics/4-13.pdf used on input line 121.
 (pdftex.def)             Requested size: 284.53844pt x 142.26178pt.
- [23 <./pics/4-2.pdf>] [24 <./pics/3-4.pdf> <./pics/3-3.pdf>]
+ [25 <./pics/4-2.pdf>] [26 <./pics/3-4.pdf> <./pics/3-3.pdf>]
 
 LaTeX Warning: `h' float specifier changed to `ht'.
 
-[25 <./pics/4-10.pdf> <./pics/4-12.pdf>]
-<pics/3-6.pdf, id=875, 416.55624pt x 85.31876pt>
+[27 <./pics/4-10.pdf> <./pics/4-12.pdf>]
+<pics/3-6.pdf, id=899, 416.55624pt x 85.31876pt>
 File: pics/3-6.pdf Graphic file (type pdf)
  <use pics/3-6.pdf>
 Package pdftex.def Info: pics/3-6.pdf used on input line 135.
 (pdftex.def)             Requested size: 398.35762pt x 85.36409pt.
- [26 <./pics/4-13.pdf> <./pics/3-6.pdf>] <pics/3-7.pdf, id=912, 379.4175pt x 42
+ [28 <./pics/4-13.pdf> <./pics/3-6.pdf>] <pics/3-7.pdf, id=936, 379.4175pt x 42
 2.57875pt>
 File: pics/3-7.pdf Graphic file (type pdf)
 
 <use pics/3-7.pdf>
 Package pdftex.def Info: pics/3-7.pdf used on input line 150.
 (pdftex.def)             Requested size: 341.43785pt x 284.53195pt.
- [27 <./pics/3-7.pdf>]
-<pics/3-8.pdf, id=934, 444.66125pt x 124.465pt>
+ [29 <./pics/3-7.pdf>]
+<pics/3-8.pdf, id=957, 444.66125pt x 124.465pt>
 File: pics/3-8.pdf Graphic file (type pdf)
  <use pics/3-8.pdf>
 Package pdftex.def Info: pics/3-8.pdf used on input line 160.
 (pdftex.def)             Requested size: 426.78853pt x 142.27519pt.
 
-<pics/4-14.pdf, id=936, 416.55624pt x 124.465pt>
+<pics/4-14.pdf, id=959, 416.55624pt x 124.465pt>
 File: pics/4-14.pdf Graphic file (type pdf)
  <use pics/4-14.pdf>
 Package pdftex.def Info: pics/4-14.pdf used on input line 166.
@@ -2314,23 +2320,23 @@ Package pdftex.def Info: pics/4-14.pdf used on input line 166.
 
 LaTeX Warning: `h' float specifier changed to `ht'.
 
-[28 <./pics/3-8.pdf>] <pics/3-9.pdf, id=956, 349.305pt x 195.73125pt>
+[30 <./pics/3-8.pdf>] <pics/3-9.pdf, id=979, 349.305pt x 195.73125pt>
 File: pics/3-9.pdf Graphic file (type pdf)
 
 <use pics/3-9.pdf>
 Package pdftex.def Info: pics/3-9.pdf used on input line 176.
 (pdftex.def)             Requested size: 253.89787pt x 142.26378pt.
- [29 <./pics/4-14.pdf> <./pics/3-9.pdf>]
+ [31 <./pics/4-14.pdf> <./pics/3-9.pdf>]
 
-LaTeX Warning: Reference `4-15' on page 30 undefined on input line 187.
+LaTeX Warning: Reference `4-15' on page 32 undefined on input line 187.
 
-<pics/4-99.pdf, id=989, 416.55624pt x 199.74625pt>
+<pics/4-99.pdf, id=1012, 416.55624pt x 199.74625pt>
 File: pics/4-99.pdf Graphic file (type pdf)
  <use pics/4-99.pdf>
 Package pdftex.def Info: pics/4-99.pdf used on input line 189.
 (pdftex.def)             Requested size: 296.69135pt x 142.26378pt.
 
-<pics/4-95.pdf, id=991, 416.55624pt x 218.8175pt>
+<pics/4-95.pdf, id=1014, 416.55624pt x 218.8175pt>
 File: pics/4-95.pdf Graphic file (type pdf)
  <use pics/4-95.pdf>
 Package pdftex.def Info: pics/4-95.pdf used on input line 192.
@@ -2339,7 +2345,7 @@ Package pdftex.def Info: pics/4-95.pdf used on input line 192.
 
 LaTeX Warning: `h' float specifier changed to `ht'.
 
-[30 <./pics/4-99.pdf>]) [31 <./pics/4-95.pdf>]
+[32 <./pics/4-99.pdf>]) [33 <./pics/4-95.pdf>]
 \tf@thm=\write9
 \openout9 = `thesis.thm'.
 
@@ -2354,12 +2360,12 @@ Package hyperref Warning: Option `pdfpagelayout' has already been used,
 
 (./thesis.bbl<<ot1tt.cmap>>
 LaTeX Font Info:    Font shape `OT1/ptm/bx/n' in size <10.53937> not available
-(Font)              Font shape `OT1/ptm/b/n' tried instead on input line 78.
+(Font)              Font shape `OT1/ptm/b/n' tried instead on input line 54.
 LaTeX Font Info:    Font shape `OT1/ptm/bx/n' in size <7> not available
-(Font)              Font shape `OT1/ptm/b/n' tried instead on input line 78.
+(Font)              Font shape `OT1/ptm/b/n' tried instead on input line 54.
 LaTeX Font Info:    Font shape `OT1/ptm/bx/n' in size <5> not available
-(Font)              Font shape `OT1/ptm/b/n' tried instead on input line 78.
-) [32
+(Font)              Font shape `OT1/ptm/b/n' tried instead on input line 54.
+) [34
 
 
 ]
@@ -2368,7 +2374,7 @@ Package hyperref Warning: Token not allowed in a PDF string (Unicode):
 (hyperref)                \kern 6.025pt
 (hyperref)                replaced by space on input line 12.
 
-(./contents/acknowledgements.tex) (./contents/appendix.tex) [33
+(./contents/acknowledgements.tex) (./contents/appendix.tex) [35
 
 ]
 *************************************************
@@ -2381,11 +2387,11 @@ Package hyperref Warning: Token not allowed in a PDF string (Unicode):
 
 (./contents/original.tex
 
-[34
+[36
 
 
 
-]) [35]
+]) [37]
 \openout2 = `contents/translation.aux'.
 
  (./contents/translation.texpdfTeX warning (ext4): destination with the same id
@@ -2396,8 +2402,8 @@ l.3 ...‰ºòÂåñÁöÑÂåπÈÖçÁÆóÊ≥ïÈ´òÊïàËé∑ÂèñËßÜÂ∑ÆÂõæ}
                                                   
 
 )
-Package atenddvi Info: Last page = 46.
- [36
+Package atenddvi Info: Last page = 48.
+ [38
 
 
 
@@ -2418,26 +2424,26 @@ LaTeX Warning: There were undefined references.
 
  ) 
 Here is how much of TeX's memory you used:
- 31960 strings out of 493014
- 527092 string characters out of 6133350
- 616003 words of memory out of 5000000
- 34180 multiletter control sequences out of 15000+600000
- 104174 words of font info for 342 fonts, out of 8000000 for 9000
+ 32043 strings out of 493014
+ 528107 string characters out of 6133350
+ 616054 words of memory out of 5000000
+ 34255 multiletter control sequences out of 15000+600000
+ 104714 words of font info for 344 fonts, out of 8000000 for 9000
  1141 hyphenation exceptions out of 8191
- 56i,12n,83p,10565b,679s stack positions out of 5000i,500n,10000p,200000b,80000s
+ 56i,12n,83p,10565b,675s stack positions out of 5000i,500n,10000p,200000b,80000s
 <simhei.ttf><simhei.ttf><simhei.ttf><simsun.ttc><simsun.ttc><simsun.ttc><simh
 ei.ttf><simhei.ttf><simsun.ttc><simhei.ttf><simhei.ttf><simhei.ttf><simsun.ttc>
-<simsun.ttc><simhei.ttf><simhei.ttf><simhei.ttf><simhei.ttf><simhei.ttf><simhei
-.ttf><simhei.ttf><simhei.ttf><simsun.ttc><simhei.ttf><simhei.ttf><simsun.ttc><s
-imhei.ttf><simsun.ttc><simhei.ttf><simhei.ttf><simsun.ttc><simsun.ttc><simsun.t
+<simsun.ttc><simhei.ttf><simhei.ttf><simhei.ttf><simsun.ttc><simhei.ttf><simhei
+.ttf><simhei.ttf><simhei.ttf><simhei.ttf><simsun.ttc><simhei.ttf><simhei.ttf><s
+imsun.ttc><simhei.ttf><simsun.ttc><simhei.ttf><simhei.ttf><simsun.ttc><simsun.t
 tc><simsun.ttc><simsun.ttc><simsun.ttc><simsun.ttc><simsun.ttc><simsun.ttc><sim
-hei.ttf><simhei.ttf><simhei.ttf><simhei.ttf><simsun.ttc><simhei.ttf><simhei.ttf
-><simhei.ttf><simhei.ttf><simhei.ttf><simhei.ttf><simsun.ttc><simhei.ttf><simhe
+sun.ttc><simhei.ttf><simhei.ttf><simhei.ttf><simhei.ttf><simsun.ttc><simhei.ttf
+><simhei.ttf><simhei.ttf><simhei.ttf><simhei.ttf><simhei.ttf><simsun.ttc><simhe
 i.ttf><simhei.ttf><simhei.ttf><simhei.ttf><simhei.ttf><simhei.ttf><simhei.ttf><
-simhei.ttf><simsun.ttc><simsun.ttc><simhei.ttf><simhei.ttf><simsun.ttc><simsun.
-ttc><simhei.ttf><simhei.ttf><simhei.ttf><simhei.ttf><simhei.ttf><simsun.ttc>{/u
-sr/local/texlive/2016/texmf-dist/fonts/enc/dvips/base/8r.enc}<simhei.ttf><simhe
-i.ttf><simhei.ttf><simhei.ttf><simsun.ttc><simsun.ttc><simsun.ttc><simsun.ttc><
+simhei.ttf><simhei.ttf><simsun.ttc><simsun.ttc><simhei.ttf><simhei.ttf><simsun.
+ttc><simsun.ttc><simhei.ttf><simhei.ttf><simhei.ttf><simhei.ttf><simhei.ttf><si
+msun.ttc>{/usr/local/texlive/2016/texmf-dist/fonts/enc/dvips/base/8r.enc}<simhe
+i.ttf><simhei.ttf><simhei.ttf><simhei.ttf><simsun.ttc><simsun.ttc><simsun.ttc><
 simsun.ttc><simsun.ttc><simsun.ttc><simsun.ttc><simsun.ttc><simsun.ttc><simsun.
 ttc><simsun.ttc><simsun.ttc><simsun.ttc><simsun.ttc><simsun.ttc><simsun.ttc><si
 msun.ttc><simsun.ttc><simsun.ttc><simsun.ttc><simsun.ttc><simsun.ttc><simsun.tt
@@ -2445,22 +2451,22 @@ c><simsun.ttc><simsun.ttc><simsun.ttc><simsun.ttc><simsun.ttc><simsun.ttc><sims
 un.ttc><simsun.ttc><simsun.ttc><simsun.ttc><simsun.ttc><simsun.ttc><simsun.ttc>
 <simsun.ttc><simsun.ttc><simsun.ttc><simsun.ttc><simsun.ttc><simsun.ttc><simsun
 .ttc><simsun.ttc><simsun.ttc><simsun.ttc><simsun.ttc><simsun.ttc><simsun.ttc><s
-imsun.ttc><simsun.ttc><simhei.ttf><simhei.ttf><simsun.ttc><simsun.ttc></usr/loc
-al/texlive/2016/texmf-dist/fonts/type1/public/amsfonts/cm/cmex10.pfb></usr/loca
-l/texlive/2016/texmf-dist/fonts/type1/public/amsfonts/cm/cmmi12.pfb></usr/local
-/texlive/2016/texmf-dist/fonts/type1/public/amsfonts/cm/cmmi7.pfb></usr/local/t
-exlive/2016/texmf-dist/fonts/type1/public/amsfonts/cm/cmmi8.pfb></usr/local/tex
-live/2016/texmf-dist/fonts/type1/public/amsfonts/cm/cmr12.pfb></usr/local/texli
-ve/2016/texmf-dist/fonts/type1/public/amsfonts/cm/cmr8.pfb></usr/local/texlive/
-2016/texmf-dist/fonts/type1/public/amsfonts/cm/cmsy10.pfb></usr/local/texlive/2
-016/texmf-dist/fonts/type1/public/amsfonts/cm/cmsy8.pfb></usr/local/texlive/201
-6/texmf-dist/fonts/type1/public/amsfonts/cm/cmtt10.pfb></usr/local/texlive/2016
-/texmf-dist/fonts/type1/urw/times/utmb8a.pfb></usr/local/texlive/2016/texmf-dis
-t/fonts/type1/urw/times/utmr8a.pfb>
-Output written on thesis.pdf (46 pages, 8121367 bytes).
+imsun.ttc><simsun.ttc><simsun.ttc><simhei.ttf><simhei.ttf><simsun.ttc><simsun.t
+tc></usr/local/texlive/2016/texmf-dist/fonts/type1/public/amsfonts/cm/cmex10.pf
+b></usr/local/texlive/2016/texmf-dist/fonts/type1/public/amsfonts/cm/cmmi12.pfb
+></usr/local/texlive/2016/texmf-dist/fonts/type1/public/amsfonts/cm/cmmi7.pfb><
+/usr/local/texlive/2016/texmf-dist/fonts/type1/public/amsfonts/cm/cmmi8.pfb></u
+sr/local/texlive/2016/texmf-dist/fonts/type1/public/amsfonts/cm/cmr12.pfb></usr
+/local/texlive/2016/texmf-dist/fonts/type1/public/amsfonts/cm/cmr8.pfb></usr/lo
+cal/texlive/2016/texmf-dist/fonts/type1/public/amsfonts/cm/cmsy10.pfb></usr/loc
+al/texlive/2016/texmf-dist/fonts/type1/public/amsfonts/cm/cmsy8.pfb></usr/local
+/texlive/2016/texmf-dist/fonts/type1/public/amsfonts/cm/cmtt10.pfb></usr/local/
+texlive/2016/texmf-dist/fonts/type1/urw/times/utmb8a.pfb></usr/local/texlive/20
+16/texmf-dist/fonts/type1/urw/times/utmr8a.pfb>
+Output written on thesis.pdf (48 pages, 8158752 bytes).
 PDF statistics:
- 1543 PDF objects out of 1728 (max. 8388607)
- 1130 compressed objects within 12 object streams
- 141 named destinations out of 1000 (max. 500000)
- 785 words of extra memory for PDF output out of 10000 (max. 10000000)
+ 1570 PDF objects out of 1728 (max. 8388607)
+ 1152 compressed objects within 12 object streams
+ 145 named destinations out of 1000 (max. 500000)
+ 789 words of extra memory for PDF output out of 10000 (max. 10000000)
 

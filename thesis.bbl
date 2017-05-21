@@ -1,4 +1,4 @@
-\begin{thebibliography}{10}\setlength{\baselineskip}{20bp plus 2bp minus
+\begin{thebibliography}{12}\setlength{\baselineskip}{20bp plus 2bp minus
   1bp}\setlength{\itemsep}{0bp}\setlength{\parskip}{0pt}
 \providecommand{\natexlab}[1]{#1}
 \providecommand{\url}[1]{\texttt{#1}}
@@ -17,14 +17,6 @@ Marr.
 \ifnum \value{NAT@ctr}=9 \addtolength{\labelwidth}{1em} \fi\ifnum
   \value{NAT@ctr}=99 \addtolength{\labelwidth}{1em} \fi\ifnum
   \value{NAT@ctr}=999 \addtolength{\labelwidth}{1em}
-  \fi\bibitem[荆鑫(2013)]{A-1}
-荆鑫.
-\newblock 计算机视觉中双目立体匹配技术的研究[D].
-\newblock 南京理工大学, 2013
-
-\ifnum \value{NAT@ctr}=9 \addtolength{\labelwidth}{1em} \fi\ifnum
-  \value{NAT@ctr}=99 \addtolength{\labelwidth}{1em} \fi\ifnum
-  \value{NAT@ctr}=999 \addtolength{\labelwidth}{1em}
   \fi\bibitem[胡汉平(2014)]{A-2}
 胡汉平.
 \newblock 双目立体测距关键技术研究[D].
@@ -33,10 +25,33 @@ Marr.
 \ifnum \value{NAT@ctr}=9 \addtolength{\labelwidth}{1em} \fi\ifnum
   \value{NAT@ctr}=99 \addtolength{\labelwidth}{1em} \fi\ifnum
   \value{NAT@ctr}=999 \addtolength{\labelwidth}{1em}
+  \fi\bibitem[荆鑫(2013)]{A-1}
+荆鑫.
+\newblock 计算机视觉中双目立体匹配技术的研究[D].
+\newblock 南京理工大学, 2013
+
+\ifnum \value{NAT@ctr}=9 \addtolength{\labelwidth}{1em} \fi\ifnum
+  \value{NAT@ctr}=99 \addtolength{\labelwidth}{1em} \fi\ifnum
+  \value{NAT@ctr}=999 \addtolength{\labelwidth}{1em}
+  \fi\bibitem[裴聪(2010)]{A-13}
+裴聪.
+\newblock 基于计算机视觉中双目立体匹配技术研究[D].
+\newblock 江苏大学, 2010
+
+\ifnum \value{NAT@ctr}=9 \addtolength{\labelwidth}{1em} \fi\ifnum
+  \value{NAT@ctr}=99 \addtolength{\labelwidth}{1em} \fi\ifnum
+  \value{NAT@ctr}=999 \addtolength{\labelwidth}{1em}
   \fi\bibitem[马源(2015)]{A-3}
 马源.
 \newblock 基于双目立体视觉的深度感知技术研究[D].
 \newblock 北京理工大学, 2015
+
+\ifnum \value{NAT@ctr}=9 \addtolength{\labelwidth}{1em} \fi\ifnum
+  \value{NAT@ctr}=99 \addtolength{\labelwidth}{1em} \fi\ifnum
+  \value{NAT@ctr}=999 \addtolength{\labelwidth}{1em} \fi\bibitem[RedMud()]{A-7}
+RedMud.
+\newblock 立体匹配十大概念综述-立体匹配算法介绍[EB/OL].
+\newblock \url{https://zhuanlan.zhihu.com/p/20703577}, 2016
 
 \ifnum \value{NAT@ctr}=9 \addtolength{\labelwidth}{1em} \fi\ifnum
   \value{NAT@ctr}=99 \addtolength{\labelwidth}{1em} \fi\ifnum
@@ -72,10 +87,11 @@ Richard, Szeliski.
 
 \ifnum \value{NAT@ctr}=9 \addtolength{\labelwidth}{1em} \fi\ifnum
   \value{NAT@ctr}=99 \addtolength{\labelwidth}{1em} \fi\ifnum
-  \value{NAT@ctr}=999 \addtolength{\labelwidth}{1em} \fi\bibitem[RedMud()]{A-7}
-RedMud.
-\newblock 立体匹配十大概念综述-立体匹配算法介绍[EB/OL].
-\newblock \url{https://zhuanlan.zhihu.com/p/20703577}, 2016
+  \value{NAT@ctr}=999 \addtolength{\labelwidth}{1em}
+  \fi\bibitem[查志强()]{A-14}
+查志强.
+\newblock OpenCV三种立体匹配求视差图算法总结[EB/OL].
+\newblock \url{http://blog.csdn.net/zhazhiqiang/article/details/50595850}, 2016
 
 \ifnum \value{NAT@ctr}=9 \addtolength{\labelwidth}{1em} \fi\ifnum
   \value{NAT@ctr}=99 \addtolength{\labelwidth}{1em} \fi\ifnum
