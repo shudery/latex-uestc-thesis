@@ -1,4 +1,4 @@
-\begin{thebibliography}{12}\setlength{\baselineskip}{20bp plus 2bp minus
+\begin{thebibliography}{22}\setlength{\baselineskip}{20bp plus 2bp minus
   1bp}\setlength{\itemsep}{0bp}\setlength{\parskip}{0pt}
 \providecommand{\natexlab}[1]{#1}
 \providecommand{\url}[1]{\texttt{#1}}
@@ -64,6 +64,14 @@ Bradski G, Kaebler A.
 \ifnum \value{NAT@ctr}=9 \addtolength{\labelwidth}{1em} \fi\ifnum
   \value{NAT@ctr}=99 \addtolength{\labelwidth}{1em} \fi\ifnum
   \value{NAT@ctr}=999 \addtolength{\labelwidth}{1em}
+  \fi\bibitem[张正友(1998)]{A-15}
+张正友.
+\newblock A Flexible New Technique for Camera Calibration[D].
+\newblock 浙江大学, 1998
+
+\ifnum \value{NAT@ctr}=9 \addtolength{\labelwidth}{1em} \fi\ifnum
+  \value{NAT@ctr}=99 \addtolength{\labelwidth}{1em} \fi\ifnum
+  \value{NAT@ctr}=999 \addtolength{\labelwidth}{1em}
   \fi\bibitem[刘波译(2014)]{A-5}
 刘波译.
 \newblock 深入理解OpenCV——实用计算机视觉项目解析[M].
@@ -101,5 +109,82 @@ D.~K. Hoa, L.~Dung, N.~T. Dzung.
 \newblock Efficient determination of disparity map from stereo images with
   modified Sum of Absolute Differences (SAD) algorithm[C].
 \newblock Hanoi University of Science and Technology, Vietnam, 2014
+
+\ifnum \value{NAT@ctr}=9 \addtolength{\labelwidth}{1em} \fi\ifnum
+  \value{NAT@ctr}=99 \addtolength{\labelwidth}{1em} \fi\ifnum
+  \value{NAT@ctr}=999 \addtolength{\labelwidth}{1em}
+  \fi\bibitem[于舒春(2008)]{A-30}
+于舒春.
+\newblock 双目立体视觉和三维重建关键技术研究[D].
+\newblock 哈尔滨工业大学, 2008
+
+\ifnum \value{NAT@ctr}=9 \addtolength{\labelwidth}{1em} \fi\ifnum
+  \value{NAT@ctr}=99 \addtolength{\labelwidth}{1em} \fi\ifnum
+  \value{NAT@ctr}=999 \addtolength{\labelwidth}{1em}
+  \fi\bibitem[孟晓桥和胡占义(2003)]{A-31}
+孟晓桥, 胡占义.
+\newblock 摄像机自标定方法的研究与进展[D].
+\newblock 自动化学报, 2003
+
+\ifnum \value{NAT@ctr}=9 \addtolength{\labelwidth}{1em} \fi\ifnum
+  \value{NAT@ctr}=99 \addtolength{\labelwidth}{1em} \fi\ifnum
+  \value{NAT@ctr}=999 \addtolength{\labelwidth}{1em}
+  \fi\bibitem[Scharstein和Szeliski(2002)]{A-32}
+Scharstein D, Szeliski R.
+\newblock A Taxonomy and Evaluation of Dense Two- Frame Stereo Correspondence
+  Algorithms[D].
+\newblock Springer, 2002
+
+\ifnum \value{NAT@ctr}=9 \addtolength{\labelwidth}{1em} \fi\ifnum
+  \value{NAT@ctr}=99 \addtolength{\labelwidth}{1em} \fi\ifnum
+  \value{NAT@ctr}=999 \addtolength{\labelwidth}{1em}
+  \fi\bibitem[Humenberger~等(2010)]{A-33}
+Humenberger M, Zinner C, Weber M,等.
+\newblock A fast stereo matching algorithm suitable for embedded real-time
+  systems[D].
+\newblock CVIU, 2010
+
+\ifnum \value{NAT@ctr}=9 \addtolength{\labelwidth}{1em} \fi\ifnum
+  \value{NAT@ctr}=99 \addtolength{\labelwidth}{1em} \fi\ifnum
+  \value{NAT@ctr}=999 \addtolength{\labelwidth}{1em}
+  \fi\bibitem[刘小群(2011)]{A-34}
+刘小群.
+\newblock 基于立体视觉的立体匹配算法研究[D].
+\newblock 中南大学, 2011
+
+\ifnum \value{NAT@ctr}=9 \addtolength{\labelwidth}{1em} \fi\ifnum
+  \value{NAT@ctr}=99 \addtolength{\labelwidth}{1em} \fi\ifnum
+  \value{NAT@ctr}=999 \addtolength{\labelwidth}{1em}
+  \fi\bibitem[王逸林(2012)]{A-35}
+王逸林.
+\newblock 基于区域匹配算法的双目立体匹配技术的研究[D].
+\newblock 大连海事大学, 2012
+
+\ifnum \value{NAT@ctr}=9 \addtolength{\labelwidth}{1em} \fi\ifnum
+  \value{NAT@ctr}=99 \addtolength{\labelwidth}{1em} \fi\ifnum
+  \value{NAT@ctr}=999 \addtolength{\labelwidth}{1em}
+  \fi\bibitem[Barzigar~等(2012)]{A-36}
+Barzigar N, Roozgard A, Cheng S,等.
+\newblock Dense image registration using sparse coding and belief
+  propagation[D].
+\newblock JVIS, 2012
+
+\ifnum \value{NAT@ctr}=9 \addtolength{\labelwidth}{1em} \fi\ifnum
+  \value{NAT@ctr}=99 \addtolength{\labelwidth}{1em} \fi\ifnum
+  \value{NAT@ctr}=999 \addtolength{\labelwidth}{1em}
+  \fi\bibitem[Yoon和Kweon(2005)]{A-37}
+Yoon K~J, Kweon I~S.
+\newblock Locally Adaptive Support-Weight Approach for Visual Correspondence
+  Search[D].
+\newblock IEEE, 2005
+
+\ifnum \value{NAT@ctr}=9 \addtolength{\labelwidth}{1em} \fi\ifnum
+  \value{NAT@ctr}=99 \addtolength{\labelwidth}{1em} \fi\ifnum
+  \value{NAT@ctr}=999 \addtolength{\labelwidth}{1em}
+  \fi\bibitem[Z.Lee~等(2013)]{A-38}
+Z.Lee, J.Juang, T.Nguyen.
+\newblock Local disparity estimation with three-moded cross census and advanced
+  support weight[D].
+\newblock IEEE, 2013
 
 \end{thebibliography}

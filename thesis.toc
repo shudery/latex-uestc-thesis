@@ -21,15 +21,15 @@
 \contentsline {section}{\numberline {3.3}立体匹配的难点和算法优化方向}{18}{section.3.3}
 \contentsline {chapter}{\numberline {第4章\hspace {0.3em}}双目视觉系统的构建及实验总结}{20}{chapter.4}
 \contentsline {section}{\numberline {4.1}摄像机离线标定}{20}{section.4.1}
-\contentsline {section}{\numberline {4.2}实验过程匹配效果的评估}{22}{section.4.2}
-\contentsline {section}{\numberline {4.3}局部立体匹配SAD算法实现}{24}{section.4.3}
-\contentsline {section}{\numberline {4.4}匹配窗口的选择}{26}{section.4.4}
-\contentsline {section}{\numberline {4.5}优化实验算法}{28}{section.4.5}
-\contentsline {subsection}{\numberline {4.5.1}增加Census变换}{28}{subsection.4.5.1}
-\contentsline {subsection}{\numberline {4.5.2}双向匹配遮挡检测}{30}{subsection.4.5.2}
-\contentsline {subsection}{\numberline {4.5.3}基于几何距离的自适应权重}{31}{subsection.4.5.3}
-\contentsline {section}{\numberline {4.6}实验结论及全文最后总结}{32}{section.4.6}
-\contentsline {chapter}{参考文献}{34}{section*.31}
-\contentsline {chapter}{致\kern .5em 谢}{35}{section*.34}
-\contentsline {chapter}{外文资料原文}{36}{section*.35}
-\contentsline {chapter}{外文资料译文}{38}{section*.36}
+\contentsline {section}{\numberline {4.2}实验过程匹配效果的评估}{23}{section.4.2}
+\contentsline {section}{\numberline {4.3}局部立体匹配SAD算法实现}{25}{section.4.3}
+\contentsline {section}{\numberline {4.4}匹配窗口的选择}{28}{section.4.4}
+\contentsline {section}{\numberline {4.5}优化局部立体匹配算法}{29}{section.4.5}
+\contentsline {subsection}{\numberline {4.5.1}增加Census变换}{30}{subsection.4.5.1}
+\contentsline {subsection}{\numberline {4.5.2}双向匹配遮挡检测}{31}{subsection.4.5.2}
+\contentsline {subsection}{\numberline {4.5.3}基于几何距离的自适应权重}{33}{subsection.4.5.3}
+\contentsline {section}{\numberline {4.6}实验结论及全文最后总结}{34}{section.4.6}
+\contentsline {chapter}{参考文献}{36}{section*.31}
+\contentsline {chapter}{致\kern .5em 谢}{38}{section*.34}
+\contentsline {chapter}{外文资料原文}{39}{section*.35}
+\contentsline {chapter}{外文资料译文}{41}{section*.36}
